@@ -1,0 +1,134 @@
+<html>
+<head>
+  <link rel="prefetch" href="data/android.csv">
+  <link rel="prefetch" href="data/c.csv">
+  <link rel="prefetch" href="data/c%23.csv">
+  <link rel="prefetch" href="data/c++.csv">
+  <link rel="prefetch" href="data/haskell.csv">
+  <link rel="prefetch" href="data/iphone.csv">
+  <link rel="prefetch" href="data/java.csv">
+  <link rel="prefetch" href="data/javascript.csv">
+  <link rel="prefetch" href="data/matlab.csv">
+  <link rel="prefetch" href="data/objective-c.csv">
+  <link rel="prefetch" href="data/perl.csv">
+  <link rel="prefetch" href="data/php.csv">
+  <link rel="prefetch" href="data/python.csv">
+  <link rel="prefetch" href="data/ruby.csv">
+  <link rel="prefetch" href="data/scala.csv">
+  <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
+  <script type='text/javascript' src="js/jquery.csv-0.71.js"></script>
+  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+  <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+  <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+  <script type='text/javascript'>
+  (function(){
+    google.load('visualization', '1', {'packages': ['geochart']});
+    google.setOnLoadCallback(onLoad);
+
+    var chart = null;
+
+    function onLoad() {
+      chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+      google.visualization.events.addListener(chart, 'ready', onReady);
+
+      loadDataForCurrentTag();
+
+      $('.dropdown-menu li a').click(function(){
+        $(this).closest('.btn-group').find('.btn-value').text($(this).text());
+        $(this).closest('.btn-group').find('.btn').attr('value', $(this).attr('value'));
+        loadDataForCurrentTag();
+      });
+    };
+
+    function onReady() {
+      enableButtons();
+    };
+
+    function loadDataForCurrentTag() {
+      loadData($('#tag-btn .btn-value').text());
+    };
+
+    function loadData(tagName) {
+      $.ajax({
+        url : 'data/' + encodeURIComponent(tagName) + '.csv',
+        success : function(csvData) {
+          dataArray = $.csv.toArrays(csvData, {
+            onParseValue: $.csv.hooks.castToScalar
+          });
+          drawRegionsMap(dataArray);
+        }
+      });
+    };
+
+    function topCountriesView(data, count) {
+      data.sort([{'column': 1, 'desc': true}]);
+
+      var dataView = new google.visualization.DataView(data)
+      dataView.hideRows(count, dataView.getNumberOfRows() - 1);
+      return dataView;
+    };
+
+    function drawRegionsMap(dataArray) {
+      var data = google.visualization.arrayToDataTable(dataArray);
+      var dataByCountry = google.visualization.data.group(
+        data,
+        [1],
+        [{'column': 0, 'aggregation': google.visualization.data.sum, 'type': 'number'}]
+        );
+
+      var countriesToShow = $('#country-btn').attr('value');
+      if(countriesToShow != 'all') {
+        dataByCountry = topCountriesView(dataByCountry, parseInt(countriesToShow));
+      }
+
+      disableButtons();
+      chart.draw(dataByCountry);
+    };
+
+    function enableButtons() {
+      $('.btn-group .btn').removeClass('disabled');
+    };
+
+    function disableButtons() {
+      $('.btn-group .btn').addClass('disabled');
+    };
+  })();
+  </script>
+</head>
+<body style="padding:0">
+  <div style="height:100%; width:100%; position:relative;">
+    <div class="btn-group">
+      <a id="tag-btn" class="btn dropdown-toggle" data-toggle="dropdown" href="#" value="android">
+        <span style="color:gray">tag: </span><span class="btn-value">iphone</span> <span class="caret"></span>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a tabindex="-1" href="#">android</a></li>
+        <li><a tabindex="-1" href="#">iphone</a></li>
+        <li class="divider"></li>
+        <li><a tabindex="-1" href="#">c</a></li>
+        <li><a tabindex="-1" href="#">c#</a></li>
+        <li><a tabindex="-1" href="#">c++</a></li>
+        <li><a tabindex="-1" href="#">haskell</a></li>
+        <li><a tabindex="-1" href="#">java</a></li>
+        <li><a tabindex="-1" href="#">javascript</a></li>
+        <li><a tabindex="-1" href="#">matlab</a></li>
+        <li><a tabindex="-1" href="#">objective-c</a></li>
+        <li><a tabindex="-1" href="#">perl</a></li>
+        <li><a tabindex="-1" href="#">php</a></li>
+        <li><a tabindex="-1" href="#">python</a></li>
+        <li><a tabindex="-1" href="#">ruby</a></li>
+        <li><a tabindex="-1" href="#">scala</a></li>
+      </ul>
+    </div><div class="btn-group">
+    <a id="country-btn" class="btn dropdown-toggle" data-toggle="dropdown" href="#" value="all">
+      <span style="color:gray">show: </span><span class="btn-value">all countries</span> <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+      <li><a tabindex="-1" href="#" value="all">all countries</a></li>
+      <li><a tabindex="-1" href="#" value="10">top 10 countries</a></li>
+    </ul>
+  </div>
+  <div id="chart_div" style="width:100%; position:absolute; left:0; top:30px; bottom:0;"></div>
+</div>
+</body>
+</html>
