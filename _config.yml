@@ -1,4 +1,0 @@
-name: Code Sushi
-markdown: redcarpet
-pygments: true
-permalink: /blog/:year/:month/:title/

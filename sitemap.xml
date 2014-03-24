@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://MihaiDamian.github.io/blog/2013/02/physics-uikit-2/</loc>
+        <lastmod>2014-03-24T22:35:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://MihaiDamian.github.io/blog/2013/03/stackoverflow-tag-popularity-by-country/
+        </loc>
+        <lastmod>2014-03-23T21:34:31+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://MihaiDamian.github.io/blog/2013/05/uiview-as-opengl-texture/</loc>
+        <lastmod>2014-03-24T22:32:41+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://MihaiDamian.github.io/blog/archives/</loc>
+        <lastmod>2014-03-24T22:35:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://MihaiDamian.github.io/</loc>
+        <lastmod>2014-03-24T22:35:59+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://MihaiDamian.github.io/robots.txt</loc>
+        <lastmod>2014-03-23T21:34:31+02:00</lastmod>
+    </url>
+</urlset>
