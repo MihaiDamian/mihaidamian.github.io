@@ -1,0 +1,1033 @@
+Count,Country,State,County,City,Lat,Lng,GeocodeQuality
+489,United States of America,,,,39.7837304,-100.4458825,COUNTRY
+447,India,,,,22.3511148,78.6677428,COUNTRY
+268,Germany,,,,54.0731702,7.45860589983153,COUNTRY
+242,United Kingdom,,,,54.7023545,-3.2765753,COUNTRY
+231,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+208,United States of America,Texas,Travis County,Austin,30.350177,-97.5711440508783,CITY
+174,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+168,United Kingdom,England,London,London,51.5072759,-0.1276597,CITY
+145,India,,,Chennai,13.0804251,80.281807,ZIP
+118,United States of America,California,San Francisco City and County,San Francisco,37.7789601,-122.419199,CITY
+116,United States of America,Washington,King County,Seattle,47.6038321,-122.3300624,CITY
+100,Canada,,,,61.0666922,-107.9917071,COUNTRY
+95,United States of America,Illinois,Cook County,Chicago,41.8756208,-87.6243706,CITY
+91,India,,,,17.4020214,78.4584862543268,COUNTRY
+90,United States of America,California,,,36.7014631,-118.7559974,STATE
+89,United States of America,New Jersey,,,40.0757384,-74.4041622,STATE
+88,Italy,,,,42.6384261,12.674297,COUNTRY
+85,United States of America,Oregon,Multnomah County,Portland,45.5202471,-122.6741949,CITY
+81,United States of America,Ohio,Franklin County,Columbus,39.9622601,-83.0007065,CITY
+79,France,,,,46.603354,1.8883335,COUNTRY
+74,United States of America,Texas,,,31.8160381,-99.5120986,STATE
+72,Australia,Victoria,City of Melbourne,Melbourne,-37.8142176,144.9631608,ZIP
+66,Israel,,,,30.8760272,35.0015196,COUNTRY
+66,People's Republic of China,,,,35.000074,104.999927,COUNTRY
+62,Australia,,,,-27.2692649,136.1048783,COUNTRY
+61,Russian Federation,Moscow,,,55.5805786,37.4062709,STATE
+59,India,Maharashtra,,,18.64306615,73.9318300392037,STATE
+59,People's Republic of China,Shanghai,Huangpu District,Shanghai,31.2253441,121.4888922,CITY
+59,Qatar,,,Doha,25.2852523,51.5268371,CITY
+58,United States of America,Virginia,Loudoun County,Sterling,39.0016194,-77.4032011,CITY
+57,France,Île-de-France,Paris,Paris,48.8565056,2.3521334,CITY
+56,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+56,People's Republic of China,,,,35.000074,104.999927,COUNTRY
+55,United States of America,New Jersey,Kings,Brooklyn,40.6501038,-73.9495823,CITY
+55,Singapore,,,Singapore,1.2906296,103.8528342,CITY
+54,Russian Federation,,,,64.6863136,97.7453061,COUNTRY
+54,United Kingdom,England,London,London,51.5072759,-0.1276597,CITY
+54,United States of America,Florida,,,27.698638,-81.557858819357,STATE
+51,Sweden,,,,59.6749712,14.5208584,COUNTRY
+50,United States of America,Michigan,,,43.6211955,-84.6824346,STATE
+50,United States of America,Indiana,Monroe County,Bloomington,39.1670396,-86.5342881,CITY
+49,Canada,Quebec,,Montreal city,45.5224507,-73.5912827,CITY
+48,Australia,New South Wales,,Sydney,-33.8548157,151.2164539,CITY
+48,United States of America,,District of Columbia,Washington,38.8951148,-77.0363716,CITY
+48,India,Rajasthan,,,27.15586325,75.7475900730232,STATE
+47,Belarus,Минская область,,Minsk,53.902253,27.561863,CITY
+46,United States of America,California,San Diego County,San Diego,32.8931805242226,-117.227146057256,ADDRESS
+46,United States of America,Georgia,Fulton County,Atlanta,33.7490987,-84.3901849,CITY
+43,United States of America,Texas,Harris County,Houston,30.0329375,-95.602030314202,CITY
+43,Canada,Ontario,,Toronto,43.6529206,-79.3849008,CITY
+42,United States of America,Virginia,,,37.1232245,-78.4927721,STATE
+42,United States of America,California,Los Angeles County,Los Angeles,34.0501713,-118.2419714,CITY
+40,United States of America,Massachusetts,,,42.3788774,-72.032366,STATE
+40,Germany,Berlin,,,52.5198535,13.4385964,STATE
+40,United States of America,Texas,Dallas County,Dallas,32.7801052,-96.8000082,CITY
+39,United States of America,Washington,Whitman County,Pullman,46.7304625,-117.164560812569,CITY
+38,Russian Federation,Saint Petersburg,,,59.9606739,30.1586551,ZIP
+36,Estonia,,,,58.7523778,25.3319078,COUNTRY
+35,United States of America,Utah,,,39.4225192,-111.7143584,STATE
+35,United States of America,Pennsylvania,Philadelphia County,Philadelphia,39.952335,-75.163789,CITY
+35,United States of America,Minnesota,,,45.9896587,-94.6113288,STATE
+33,United States of America,California,Santa Clara County,San José,37.3438502,-121.8831349,CITY
+33,United States of America,California,Sacramento,,38.4840756,-121.0740108,COUNTY
+33,United States of America,Massachusetts,Suffolk County,Boston,42.3604823,-71.0595678,CITY
+30,Brazil,,,,-8.4666145,-51.3333976,COUNTRY
+29,United Kingdom,England,,,52.5310214,-1.2649062,STATE
+29,The Netherlands,Netherlands,,,52.2378498,5.53445746584715,STATE
+29,Canada,British Columbia,Greater Vancouver Regional District,Vancouver,49.2499987,-123.1333301,CITY
+28,United Kingdom,England,London,London,51.5072759,-0.1276597,CITY
+27,India,Karnataka,Bangalore Metropolitan Area (BDA),Electronics City Phase 1,12.8459614,77.6682808,ADDRESS
+27,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+27,United Kingdom,England,Isle of Wight,Shorwell Parish,50.6099127,-1.3500438,ADDRESS
+26,Norway,Oslo,,Oslo,59.9132694,10.7391112,CITY
+26,United States of America,New Mexico,Sandoval County,Rio Rancho,35.31378005,-106.682631965498,CITY
+25,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+25,Belgium,,,,50.6407351,4.66696,COUNTRY
+25,Argentina,,,,-35.1124869,-65.241974,COUNTRY
+25,United States of America,Oklahoma,Tulsa County,Broken Arrow,36.0525993,-95.7908195,CITY
+25,United States of America,Michigan,Kent County,Grand Rapids,42.9633599,-85.6680863,CITY
+24,The Netherlands,North Holland,Stadsregio Amsterdam,Amsterdam,52.3710088,4.9001115,CITY
+24,United States of America,North Carolina,Durham,Raleigh,35.7803888,-78.6390587,CITY
+24,Japan,,北葛飾郡,Tokyo,35.6800712,139.7685224,CITY
+23,United States of America,Minnesota,Hennepin County,Minneapolis,44.9772995,-93.2654692,CITY
+23,United States of America,Colorado,Boulder County,,40.087343,-105.34269288841,COUNTY
+23,United States of America,Idaho,,,43.6447642,-114.0154071,STATE
+23,India,,,,22.54170505,88.3163717057693,COUNTRY
+22,Czech Republic,Jihovýchod,okres Blansko,Boskovice,49.4877803,16.6599264,CITY
+22,Romania,,,,45.9852129,24.6859225,COUNTRY
+22,Switzerland,,,,46.8132299,8.44476796010165,COUNTRY
+21,United Kingdom,,,,54.7023545,-3.2765753,COUNTRY
+21,Australia,Western Australia,,Perth,-31.9527121,115.8604796,CITY
+21,Portugal,,,,39.4303791,-8.56083284682863,COUNTRY
+21,United States of America,New York,Tompkins County,Ithaca,42.4396039,-76.4968019,CITY
+21,Malaysia,,,,4.5693754,102.2656823,COUNTRY
+20,United States of America,New York,Monroe County,Rochester,43.1572851,-77.6152141,CITY
+20,Singapore,,,Singapore,1.2906296,103.8528342,CITY
+20,Switzerland,Zurich,Bezirk Zürich,Zurich,47.3685586,8.5404434,CITY
+19,Poland,,,,52.0977181,19.0258159,COUNTRY
+19,Spain,Community of Madrid,Madrid,Madrid,40.4167047,-3.7035825,CITY
+19,United Kingdom,England,Lancashire,Manchester,53.4791466,-2.2447445,CITY
+19,Malaysia,,,Kuala Lumpur,3.1570976,101.7009528,CITY
+18,United Kingdom,Scotland,City of Edinburgh,Edinburgh,55.9483399,-3.1932723,CITY
+18,Ireland,,Dublin,Dublin,53.3493074,-6.261175,CITY
+18,United States of America,New Hampshire,Hillsborough County,Nashua,42.7653662,-71.467566,CITY
+18,Turkey,,,,38.9597594,34.9249653,COUNTRY
+17,Australia,New South Wales,,Sydney,-33.8548157,151.2164539,CITY
+17,United States of America,California,Santa Clara County,Palo Alto,37.442156,-122.1634472,CITY
+17,Norway,,,,60.5000209,9.0999715,COUNTRY
+17,United States of America,Pennsylvania,Allegheny County,Pittsburgh,40.4416941,-79.9900861,CITY
+17,United States of America,Colorado,Denver County,,39.76426375,-104.954814393925,COUNTY
+17,United Kingdom,England,Cambridgeshire,Cambridge,52.2033051,0.124862,CITY
+17,United States of America,Nevada,Clark,Las Vegas,36.145204,-115.1611806,CITY
+17,Israel,Jerusalem District,,Jerusalem,31.7893785,35.2185386575922,CITY
+16,United States of America,Texas,Lamb,Earth,34.2331373,-102.4107493,CITY
+16,People's Republic of China,Hebei,固安县,Beijing,39.9064702,116.391195,CITY
+16,Republic of the Philippines,,,,12.7503486,122.7312101,COUNTRY
+16,Puerto Rico,Puerto Rico,,,18.2017809,-66.5841246,STATE
+16,United States of America,Utah,Salt Lake County,Salt Lake City,40.7606467,-111.89109,CITY
+16,India,Delhi,,New Delhi,28.6138967,77.2159562,CITY
+16,Canada,Ontario,,Ottawa,45.4210328,-75.6900219,CITY
+16,Poland,Kuyavian-Pomeranian Voivodeship,Toruń,Toruń,53.0210671,18.618612,CITY
+15,United States of America,California,Alameda County,Berkeley,37.8707755,-122.301852520212,CITY
+15,United States of America,Michigan,Washtenaw County,Ann Arbor,42.2681569,-83.7312291,CITY
+15,Japan,,,,36.5748441,139.2394179,COUNTRY
+15,Luxemburg,District Luxembourg,Luxembourg,Luxembourg,49.6112768,6.129799,CITY
+15,United States of America,North Carolina,Durham County,Durham,35.9940329,-78.898619,CITY
+14,United Kingdom,England,,,52.5310214,-1.2649062,STATE
+14,,,,,51.0000003,9.9999997,LATLNG
+14,United States of America,Indiana,Marion,Indianapolis,39.7683795,-86.1580447,CITY
+14,Portugal,,,Lisbon,38.7128995,-9.1328948,CITY
+14,Ukraine,Kyiv,Shevchenkivskyi district,Kyiv,50.4499875,30.5234937,ZIP
+14,United States of America,Arkansas,,,35.2048883,-92.4479108,STATE
+14,United States of America,Virginia,Arlington County,Arlington,38.8903961,-77.0841585,CITY
+14,Austria,,,,47.2000338,13.199959,COUNTRY
+14,Romania,Municipiul București,,Bucharest,44.436139,26.1027436,CITY
+14,India,Maharashtra,Greater Bombay,Mumbai,18.9387039,72.8353711,CITY
+14,Germany,Free State of Bavaria,Munich,,48.1372719,11.5754815,COUNTY
+14,United States of America,California,Santa Clara County,Santa Clara,37.3541132,-121.9551744,CITY
+13,United States of America,Maryland,,,39.5162234,-76.9382069,STATE
+13,Canada,Ontario,Regional Municipality of Waterloo,Waterloo,43.4655524,-80.5217786,CITY
+13,Bulgaria,,,,42.6073975,25.4856617,COUNTRY
+13,United States of America,Colorado,,,38.7251776,-105.6077167,STATE
+13,United States of America,Missouri,Jackson County,Kansas City,39.0844687,-94.5630298,CITY
+13,United States of America,Florida,Pinellas County,Madeira Beach,27.7980814,-82.7973247,CITY
+13,United States of America,Wisconsin,Dane County,Madison,43.074761,-89.3837613,CITY
+13,United States of America,Alabama,Jefferson,Birmingham,33.554113,-86.804219,ADDRESS
+13,Brazil,Espírito Santo,,,-19.5687656,-40.1721991,STATE
+12,United States of America,Texas,Lamb,Earth,34.2331373,-102.4107493,CITY
+12,Ireland,,,,52.865196,-7.9794599,COUNTRY
+12,United States of America,North Carolina,Lincoln,Charlotte,35.3314525,-80.9398554230769,CITY
+12,United States of America,New Hampshire,Belknap County,Alton,43.4523018,-71.2175671,CITY
+12,Thailand,Bangkok,,,13.7203266,100.600820462287,STATE
+12,United States of America,,,,39.7837304,-100.4458825,COUNTRY
+12,Italy,Veneto,VR,Verona,45.4382221,10.9935545,CITY
+12,Italy,Lombardy,MI,Milan,45.4666211,9.1906166,CITY
+12,United States of America,California,Contra Costa,Mountain View,38.0091199337357,-122.116837106443,ADDRESS
+12,United States of America,California,Santa Barbara County,Santa Barbara,34.3999755,-119.703022549307,CITY
+12,United States of America,Pennsylvania,,,40.9699889,-77.7278831,STATE
+12,Czech Republic,Praha,Hlavní město Praha,Prague,50.084819,14.4177247,CITY
+11,Pakistan,,,,30.3308401,71.247499,COUNTRY
+11,India,Delhi,,New Delhi,28.6138967,77.2159562,CITY
+11,Sweden,Stockholms län,Stockholm,Stockholm,59.3307611,18.0613099,CITY
+11,United States of America,Delaware,New Castle,Wilmington,39.7459468,-75.546589,CITY
+11,Armenia,Yerevan,,Yerevan,40.1776121,44.5125849,CITY
+11,United States of America,Connecticut,,,41.493929,-72.5982114,STATE
+11,Germany,Saxony,Dresden,Dresden,51.0763286,13.7384089767404,CITY
+11,Denmark,,,,55.670249,10.3333283,COUNTRY
+11,United States of America,Delaware,,,38.6920451,-75.4013315,STATE
+11,United States of America,Indiana,,,40.3270127,-86.1746933,STATE
+11,Israel,Haifa District,,Haifa,32.8191218,34.9983856,ZIP
+11,Germany,Lower Saxony,Region Hannover,Hanover,52.3744779,9.7385532,CITY
+11,The Netherlands,North Brabant,Samenwerkingsverband Regio Eindhoven,Eindhoven,51.43406,5.48784,CITY
+11,United States of America,Florida,Lake County,Eustis,28.856125,-81.6702564054307,CITY
+11,Ukraine,Kharkiv Oblast,,Kharkiv,49.99026,36.2303797,CITY
+10,Germany,Saxony,Leipzig,Leipzig,51.340462,12.3747049,CITY
+10,France,Rhône-Alpes,Grenoble,,45.09411365,5.69718358551344,COUNTY
+10,Greece,,,,39.000041,21.9999569,COUNTRY
+10,Russian Federation,Irkutsk Oblast,Иркутск,,52.3155838,104.360186427171,COUNTY
+10,South Africa,Western Cape,City of Cape Town,Cape Town,-33.9289049,18.4172485,CITY
+10,Czech Republic,Jihovýchod,okres Brno-město,Brno,49.1921324,16.6110408,CITY
+10,Colombia,Distrito Capital de Bogotá,"Bogotá, D.C.",Bogotá,4.5980478,-74.0760867,CITY
+10,Sri Lanka,,,,7.9090561,80.8338443,COUNTRY
+10,United States of America,Arizona,Maricopa County,Tempe,33.378006,-111.963155,CITY
+10,Poland,Masovian Voivodeship,Warsaw,,52.2319237,21.0067265,COUNTY
+10,United States of America,North Carolina,,,35.6729639,-79.0392919,STATE
+9,United States of America,Tennessee,Davidson County,Nashville,36.1949274,-86.7417714,CITY
+9,Canada,New Brunswick,Westmorland County,Moncton,46.0915426,-64.7952367,CITY
+9,India,Uttar Pradesh,Ghāziābād,Noida,28.5766287,77.3297826,CITY
+9,United States of America,California,Sonoma County,Petaluma,38.284797,-122.586197501089,CITY
+9,Brazil,Rio de Janeiro,Microrregião Rio de Janeiro,Rio de Janeiro,-22.9112163,-43.2093781,CITY
+9,United States of America,Virginia,Fairfax County,Reston,38.9539586,-77.3532874520258,CITY
+9,United States of America,California,Los Angeles,Los Angeles,34.021801,-118.2866414,ZIP
+9,United States of America,California,Santa Clara County,Sunnyvale,37.3688301,-122.0363496,CITY
+9,New Zealand,Wellington,,Wellington,-41.2887639,174.7772239,CITY
+9,United States of America,Kentucky,Warren County,Bowling Green,36.9903199,-86.4436018,CITY
+9,United States of America,Maryland,Baltimore,Baltimore,39.2846027,-76.6204720342378,CITY
+9,United Kingdom,England,Kent,Canterbury,51.2800275,1.0802533,CITY
+9,India,Delhi,,,28.63135,77.2494606,STATE
+9,Hong Kong,Hong Kong,Hong Kong Island,Hong Kong,22.2644116,114.1670609,CITY
+9,Germany,Free and Hanseatic City of Hamburg,,Hamburg,53.5503414,10.000654,CITY
+9,Finland,,,,63.2467777,25.9209164,COUNTRY
+9,United States of America,Kansas,,,38.27312,-98.5821872,STATE
+9,United States of America,Kentucky,,,37.5726028,-85.1551411,STATE
+8,United States of America,California,San Diego County,Julian,33.078597,-116.6023154,CITY
+8,United States of America,California,San Diego County,San Diego,32.8472711,-117.2742086,CITY
+8,United States of America,New York,New York County,Manhattan,40.7834345,-73.9662495,CITY
+8,United States of America,Missouri,Jefferson,Fenton,38.5132874,-90.440181,CITY
+8,Germany,Hesse,Frankfurt am Main,Frankfurt am Main,50.12128335,8.66188597160349,CITY
+8,India,Delhi,,,28.63135,77.2494606,STATE
+8,United States of America,North Carolina,Orange County,Chapel Hill,35.9131996,-79.0558445,CITY
+8,United States of America,Illinois,Champaign County,Champaign,40.1164205,-88.2433829,CITY
+8,Greece,Attica Periphery,Central section of Athens,Athens,37.9841493,23.7279843,CITY
+8,Australia,Queensland,,Brisbane,-27.4689682,153.0234991,CITY
+8,Germany,North Rhine-Westphalia,Bochum,Bochum,51.4833001,7.2166699,CITY
+8,Australia,South Australia,,Adelaide,-34.9286341,138.5998876,ZIP
+8,Spain,,,,40.0028028,-4.003104,COUNTRY
+8,South Africa,,,,-28.8166236,24.991639,COUNTRY
+8,United States of America,Utah,Utah,Provo,40.2338438,-111.6585337,CITY
+8,United Kingdom,Scotland,,,56.7861112,-4.1140518,STATE
+8,Brazil,São Paulo,RMSP,São Paulo,-23.5503279,-46.6339647,CITY
+8,United States of America,Nebraska,,,41.7370229,-99.5873816,STATE
+8,United States of America,New York,Oswego,,43.4112973,-76.1279841,COUNTY
+8,United States of America,California,Alameda,Oakland,37.8043808,-122.2708166,CITY
+8,United States of America,Missouri,Monroe,,39.494421,-91.9896892,COUNTY
+7,United States of America,Tennessee,Rutherford,Murfreesboro,35.845999,-86.3920452,CITY
+7,Canada,Ontario,,,50.0000002,-86.0000001,STATE
+7,Canada,Ontario,,North Bay,46.3200191,-79.4579427,CITY
+7,United States of America,California,Santa Cruz County,Santa Cruz City Landfill,36.97308495,-122.106127564785,CITY
+7,United States of America,California,Contra Costa County,San Ramon,37.758562,-121.960126393056,CITY
+7,United States of America,California,San Francisco City and County,San Francisco,37.7884969,-122.3558473,CITY
+7,United States of America,California,Santa Clara County,Santa Clara,37.2392198,-121.8768228,ADDRESS
+7,United States of America,Missouri,,Saint Louis,38.6272733,-90.1978889,CITY
+7,Austria,Vienna,Bezirk Wien,Vienna,48.2084671,16.3730908,CITY
+7,Uruguay,,,,-32.8755548,-56.0201525,COUNTRY
+7,United States of America,Wyoming,Park County,,44.62012385,-110.560757330459,COUNTY
+7,Austria,,,,47.2000338,13.199959,COUNTRY
+7,United States of America,Alabama,Jefferson,Birmingham,33.570499,-86.765783,ADDRESS
+7,Spain,Catalunya/Cataluña,Barcelonès,Barcelona,41.3870186,2.1700437,CITY
+7,United Kingdom,England,City of Bristol,Bristol,51.4556994,-2.5952658,CITY
+7,United States of America,Texas,Tarrant County,Fort Worth,32.6521,-97.381,ADDRESS
+7,United States of America,Michigan,Wayne County,Detroit,42.3486635,-83.0567375,CITY
+7,Germany,North Rhine-Westphalia,Köln,Cologne,50.9412323,6.9569467,CITY
+7,United States of America,Texas,Tarrant County,Fort Worth,32.6237155,-97.2782215,CITY
+7,United States of America,Florida,Alachua County,Gainesville,29.67356585,-82.3234139266559,ADDRESS
+7,Belgium,Flanders,Hasselt,Hasselt,50.9303735,5.3378043,ZIP
+7,People's Republic of China,Guangdong,佛冈县,Guangzhou,23.1229013,113.2529963,CITY
+7,Hungary,,,,47.1817585,19.5060937,COUNTRY
+7,United States of America,Illinois,,,40.0796319,-89.4339809,STATE
+7,United States of America,Michigan,Ingham County,Lansing,42.7337712,-84.5553805,CITY
+7,Malaysia,,,Kuching,1.5510296,110.3408864,CITY
+6,United States of America,Iowa,,,41.9216734,-93.3122705,STATE
+6,Norway,Aust-Agder,Grimstad,,58.2856263,8.71132808522233,COUNTY
+6,Vietnam,Hanoi,,Hanoi,21.0292095,105.85247,CITY
+6,France,Midi-Pyrénées,Muret,Fonsorbes,43.5353273,1.2314988,ZIP
+6,Sweden,Västra Götalands län,Göteborg,Gothenburg,57.7064072,11.9686291,CITY
+6,India,Kerala,Kottayam,Kochi,9.9452611,76.2512185,CITY
+6,United States of America,Missouri,Boone County,Columbia,38.951883,-92.3337366,CITY
+6,United States of America,Massachusetts,Middlesex County,Burlington,42.5048167,-71.1956111,CITY
+6,People's Republic of China,,,,35.000074,104.999927,COUNTRY
+6,Bangladesh,,,,24.4768783,90.2932426,COUNTRY
+6,United States of America,Georgia,Clarke,Athens,33.9595974,-83.376678,CITY
+6,United States of America,Illinois,McLean County,Bloomington,40.4842027,-88.9936873,CITY
+6,India,,,Ahmedabad,23.0216238,72.5797068,ZIP
+6,United States of America,Alabama,Jefferson,Tarrant,33.576353,-86.767638,ADDRESS
+6,New Zealand,Auckland,,,-36.50775635,174.540946482123,STATE
+6,United States of America,New York,New York,White Plains,41.0339862,-73.7629097,CITY
+6,Ireland,,Dún Laoghaire-Rathdown,Roebuck,53.3071709,-6.2218882,CITY
+6,Italy,Veneto,VI,Vicenza,45.5483294,11.5496892,CITY
+6,Venezuela,,,,8.0018709,-66.1109318,COUNTRY
+6,Colombia,Cesar,Valledupar,,10.34291245,-73.3756630388168,COUNTY
+6,United States of America,California,San Luis Obispo County,San Luis Obispo,35.272496,-120.657060097068,CITY
+6,Chile,XIII Región Metropolitana de Santiago,Provincia de Santiago,Santiago,-33.4379935,-70.6503976,CITY
+6,Republic of the Philippines,Cavite,Rosario,Rosario,14.4093492,120.8564759,ADDRESS
+6,United Kingdom,England,Newcastle upon Tyne,,55.0192459,-1.67412352423817,COUNTY
+6,United States of America,Pennsylvania,Westmoreland County,New Stanton,40.2192374,-79.6094849,CITY
+6,United States of America,Oregon,,,43.9792797,-120.737257,STATE
+6,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+6,United States of America,California,Santa Cruz,Monterey,36.6115295,-121.887030775351,CITY
+6,United States of America,Tennessee,Shelby County,Memphis,35.1490215,-90.0516285,CITY
+5,Ireland,,County Kildare,Maynooth,53.3830239,-6.5922806,CITY
+5,France,Provence-Alpes-Côte-d'Azur,Marseille,,43.3015273,5.54803401662933,COUNTY
+5,United Kingdom,England,Buckinghamshire,Milton Keynes,52.0429797,-0.7589607,CITY
+5,United States of America,Oklahoma,Caddo,Nowhere,35.1592256,-98.4422802,CITY
+5,United States of America,Ohio,,,40.2253569,-82.6881395,STATE
+5,Canada,Ontario,,Ottawa,45.4210328,-75.6900219,CITY
+5,United States of America,California,Los Angeles County,Pasadena,34.18455365,-118.173559873254,CITY
+5,France,Île-de-France,Paris,Paris,48.8565056,2.3521334,ZIP
+5,New Zealand,,,,-41.3116998,174.9746507,COUNTRY
+5,Slovenia,,,,45.8133113,14.4808369,COUNTRY
+5,United States of America,New York,Schenectady County,Schenectady,42.8142432,-73.9395687,CITY
+5,El Salvador,,,San Salvador,13.696972,-89.1928301,CITY
+5,United States of America,Texas,Bexar County,San Antonio,29.4246002,-98.4951405,CITY
+5,Costa Rica,San José,,San José,9.9354829,-84.1027068,CITY
+5,United States of America,North Carolina,Durham,Nelson,35.8970917,-78.860285,ADDRESS
+5,United Kingdom,Scotland,Perthshire,,56.5,-4.0,COUNTY
+5,United States of America,Arizona,Maricopa County,Phoenix,33.300858,-111.972169468637,CITY
+5,Iceland,,Reykjavik,Reykjavik,64.24439715,-21.768262199674,CITY
+5,Canada,British Columbia,Greater Vancouver Regional District,Vancouver,49.2499987,-123.1333301,CITY
+5,United States of America,Washington,,,47.2868352,-120.2126139,STATE
+5,United States of America,Massachusetts,Middlesex County,Waltham,42.3756401,-71.2358004,CITY
+5,Thailand,,,,14.8971921,100.83273,COUNTRY
+5,United States of America,Wisconsin,,,44.4308975,-89.6884637,STATE
+5,Denmark,Region Midtjylland,Aarhus Kommune,Aarhus,56.1496278,10.2134046,CITY
+5,Turkey,Ankara,Çankaya,Ankara,39.9272322,32.8519769,CITY
+5,United States of America,Maryland,Anne Arundel County,Annapolis,38.9786401,-76.492786,CITY
+5,United States of America,New Mexico,Bernalillo County,Albuquerque,35.0877555,-106.737170962904,CITY
+5,Portugal,,,Braga,41.5514024,-8.4230533,CITY
+5,Moldova,Transnistria,Municipiul Chișinău,Chișinău,47.0122737,28.8605936,CITY
+5,Canada,Alberta,,Calgary,51.0529691,-114.062545,CITY
+5,United States of America,Connecticut,,,41.493929,-72.5982114,STATE
+5,Denmark,Capital Region of Denmark,Københavns Kommune,Copenhagen,55.6867243,12.5700724,CITY
+5,Costa Rica,,,,10.2735633,-84.0739102,COUNTRY
+5,Australia,Queensland,,Cracow,-25.2951573,150.3025337,CITY
+5,Czech Republic,,,,49.8167003,15.4749544,COUNTRY
+5,Germany,Baden-Württemberg,Freiburg im Breisgau,,47.9960901,7.8494005,COUNTY
+5,Mexico,Jalisco,,Guadalajara,20.676143,-103.3469982,CITY
+5,Turkey,İstanbul,Fatih,Istanbul,41.0170578,28.9855676,CITY
+5,United States of America,New Jersey,Hudson,Jersey City,40.7281575,-74.0776417,CITY
+5,Indonesia,Jakarta Special Capital Region,,Jakarta,-6.1810153,106.828335,CITY
+5,United Kingdom,England,Merseyside,Liverpool,53.4054719,-2.9805393,CITY
+4,United States of America,Kentucky,Jefferson County,Louisville,38.2542376,-85.759407,CITY
+4,United States of America,California,Alameda County,Livermore,37.6793485,-121.770860647362,CITY
+4,India,,,,9.9248807,77.9966469968149,COUNTRY
+4,United States of America,Massachusetts,Middlesex County,Malden,42.4250964,-71.066163,CITY
+4,Iran,,,,32.9407496,52.9471344,COUNTRY
+4,South Africa,Gauteng,City of Johannesburg Metropolitan Municipality,Johannesburg,-26.205,28.0497222,CITY
+4,United States of America,Missouri,Jackson County,Kansas City,39.0844687,-94.5630298,CITY
+4,India,,,,22.54170505,88.3163717057693,COUNTRY
+4,India,Haryana,,,28.09829035,77.0393737601038,STATE
+4,Indonesia,,,,-4.7993356,114.5632032,COUNTRY
+4,United States of America,California,Orange County,Irvine,33.6862707,-117.8258199,CITY
+4,Iceland,,,,64.9841821,-18.1059013,COUNTRY
+4,Germany,Baden-Württemberg,Heilbronn,Heilbronn,49.1809574,9.19900431587342,ZIP
+4,United States of America,Virginia,Fairfax (city),Fairfax,38.8462236,-77.3063733,CITY
+4,Ukraine,Crimea,,,45.3945285,34.0650243,STATE
+4,Syria,Rif Dimashq,,Damascus,33.5130695,36.3095814,CITY
+4,United States of America,Massachusetts,Middlesex County,Cambridge,42.3750997,-71.1056157,CITY
+4,Canada,British Columbia,,,55.0,-125.0,STATE
+4,Hungary,Central Hungary,Budapesti kistérség,Budapest,47.4983815,19.0404707,CITY
+4,Argentina,,,Buenos Aires,-34.6040201,-58.3815632,CITY
+4,United States of America,Texas,Cameron County,Brownsville,25.9140256,-97.4890856,CITY
+4,Switzerland,Bern - Berne,Verwaltungskreis Bern-Mittelland,Bern,46.9480572,7.4513003,CITY
+4,India,,,Ahmedabad,23.0216238,72.5797068,ZIP
+4,United States of America,Georgia,Fulton County,Alpharetta,34.0709576,-84.2747329,CITY
+4,United States of America,Arizona,,,34.395342,-111.7632755,STATE
+4,United States of America,,District of Columbia,Washington,38.8951148,-77.0363716,CITY
+4,Poland,Lower Silesian Voivodeship,Wrocław,Wrocław,51.1122376,17.0344333,CITY
+4,United States of America,Washington,King,Seattle,47.5709315,-122.3865166,CITY
+4,Romania,Timiș,Timișoara,Timișoara,45.74866195,21.2225516253049,CITY
+4,Syria,,,,34.6401861,39.0494106,COUNTRY
+4,Republic of China,Taipei City,,,25.0872844,121.563171189599,STATE
+4,India,Tamil Nadu,,,11.80834995,79.7745158113182,STATE
+4,United States of America,Florida,Hillsborough County,Tampa,27.9518491,-82.4563972,ADDRESS
+4,Iran,Tehran,,Tehran,35.6884243,51.4179604,CITY
+4,Israel,Tel Aviv District,,Tel Aviv-Yafo,32.0804808,34.7805274,CITY
+4,United States of America,Texas,Tarrant County,Southlake,32.962582,-97.1511351509909,CITY
+4,South Korea,,,,35.3985008,127.937111,COUNTRY
+4,United States of America,Washington,,,47.2868352,-120.2126139,STATE
+4,Vatican City,,,,41.9037978,12.4531547854869,COUNTRY
+4,Germany,North Rhine-Westphalia,Kreis Gütersloh,Verl,51.8834689,8.5095217,CITY
+4,Canada,Ontario,,Toronto,43.6529206,-79.3849008,CITY
+4,Sweden,Skåne län,Lund Municipality,Lund,55.6969952,13.2131099084305,ZIP
+4,United States of America,Illinois,Champaign County,Urbana,40.1105875,-88.2072697,CITY
+4,Ukraine,,,,49.4871968,31.2718321,COUNTRY
+4,United States of America,Virginia,Richmond (city),Richmond,37.541239,-77.4420183,CITY
+4,Brazil,Rio de Janeiro,Microrregião Rio de Janeiro,Rio de Janeiro,-22.9112163,-43.2093781,CITY
+4,United States of America,Washington,King County,Redmond,47.6694141,-122.1238767,CITY
+4,Brazil,Rio Grande do Sul,Microrregião de Porto Alegre,Porto Alegre,-30.0330556,-51.23,CITY
+4,United States of America,Michigan,Oakland County,Royal Oak,42.4894801,-83.1446485,CITY
+4,Bulgaria,Югозападен район за планиране,Sofia-City Region,Sofia,42.6976983,23.3229756,CITY
+4,United States of America,California,Shasta,Redding,40.596328,-122.321542,ADDRESS
+4,United States of America,Massachusetts,Middlesex County,Newton,42.3370414,-71.2092214,CITY
+4,United States of America,Louisiana,Orleans Parish,New Orleans,29.9499323,-90.0701156,CITY
+4,United States of America,Virginia,Craig County,New Castle,37.5001335,-80.1108872,CITY
+4,Russian Federation,Moscow,,,55.5805786,37.4062709,STATE
+3,Spain,Murcia,Murcia,Murcia,37.9838502,-1.1293948,CITY
+3,India,Maharashtra,,,21.1509884,79.0124496591974,STATE
+3,United States of America,Wisconsin,Milwaukee County,Milwaukee,43.0349931,-87.922497,CITY
+3,United States of America,Missouri,,,38.7604815,-92.5617875,STATE
+3,United States of America,Minnesota,,,45.9896587,-94.6113288,STATE
+3,United States of America,Arizona,Maricopa County,Mesa,33.436568,-111.586066539042,CITY
+3,United States of America,Massachusetts,Middlesex County,Medford,42.4184296,-71.1061639,CITY
+3,Mexico,,,,22.5000485,-100.0000375,COUNTRY
+3,Mexico,Distrito Federal,,Mexico City,19.4325301,-99.1332102,CITY
+3,United States of America,,,,39.7837304,-100.4458825,COUNTRY
+3,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+3,United States of America,Maryland,Cecil County,North East,39.6001132,-75.9413327,CITY
+3,United Kingdom,England,Oxfordshire,Oxford,51.7521553,-1.2582135,CITY
+3,Germany,Free State of Bavaria,Nürnberg,Nuremberg,49.4538517,11.0773238,CITY
+3,United States of America,Washington,Thurston County,Olympia,47.0414804,-122.891333,CITY
+3,United States of America,Nebraska,Douglas County,Omaha,41.2587317,-95.9378732,CITY
+3,Canada,Ontario,,,50.0000002,-86.0000001,STATE
+3,People's Republic of China,Shanghai,Huangpu District,Shanghai,31.2253441,121.4888922,CITY
+3,Dominican Republic,,,Santo Domingo Este,18.5350500268294,-69.837214891763,ADDRESS
+3,United States of America,New Mexico,Santa Fe County,Santa Fe,35.6869996,-105.9377997,CITY
+3,United States of America,Illinois,Kane County,St. Charles,41.9141984,-88.3086977,CITY
+3,United States of America,Minnesota,Olmsted County,Rochester,44.0226213,-92.4630094,CITY
+3,Russian Federation,Moscow Oblast,,Ostankinsky District,55.83402615,37.6218558959369,ADDRESS
+3,United States of America,California,Santa Clara County,San José,37.3438502,-121.8831349,CITY
+3,United States of America,California,San Diego County,San Diego,32.8931805242226,-117.227146057256,ADDRESS
+3,United Kingdom,England,Hertfordshire,Potters Bar,51.702588,-0.1955649,CITY
+3,Czech Republic,Praha,Hlavní město Praha,Prague,50.084819,14.4177247,CITY
+3,United States of America,New Hampshire,Grafton County,Plymouth,43.7570166,-71.6881337,CITY
+3,Cambodia,Phnom Penh,,,11.57944155,104.838559046362,STATE
+3,United Kingdom,England,Reading,Reading,51.4580216,-0.9673727,CITY
+3,Ukraine,Kyiv,Pecherskyi district,,50.4483573409802,30.5260898329767,ADDRESS
+3,France,Midi-Pyrénées,Toulouse,Toulouse,43.6044622,1.4442469,ZIP
+3,United States of America,Vermont,,,44.5990718,-72.5002608,STATE
+3,Canada,British Columbia,Capital Regional District,Victoria,48.4283327,-123.3649269,CITY
+3,Canada,Quebec,,Montreal city,45.4603893,-73.5651925,CITY
+3,Slovakia,,,,48.7411522,19.4528646,COUNTRY
+3,Canada,Ontario,,St. Catharines,43.1654193,-79.2391709,CITY
+3,United States of America,Missouri,,Saint Louis,38.6272733,-90.1978889,CITY
+3,United States of America,Illinois,Will County,Joliet,41.6143963,-88.1505932,ADDRESS
+3,United States of America,California,Santa Clara County,Stanford University,37.4266268,-122.170113702442,ADDRESS
+3,Bulgaria,Югоизточен район за планиране,Stara Zagora Region,Stara Zagora,42.4247421,25.6257235,CITY
+3,Taiwan,Taipei City,,Taipei,25.0376382,121.564459,CITY
+3,United States of America,New York,Onondaga County,Syracuse,43.0481221,-76.1474244,CITY
+3,Japan,,北葛飾郡,Tokyo,35.6800712,139.7685224,CITY
+3,United States of America,Tennessee,,,35.7730076,-86.2820081,STATE
+3,Brazil,Piauí,Região Integrada de Desenvolvimento da Grande Teresina,Teresina,-5.0896403,-42.809588,CITY
+3,Canada,Manitoba,,Winnipeg,49.8833343,-97.1666741,CITY
+3,United States of America,Wisconsin,Waushara,West Bloomfield,44.2208134,-88.9717809,CITY
+3,Chile,Los Lagos Region,,,-42.300844,-73.105387,STATE
+3,United Arab Emirates,,,Dubai,25.25294665,55.1770947050816,CITY
+3,Benin,,,,9.557657,2.1005516,COUNTRY
+3,United States of America,New York,New York,Yonkers,40.9312099,-73.8987469,CITY
+3,Belgium,Flanders,Antwerp,Antwerp,51.2211007,4.3997961,CITY
+3,The Netherlands,Utrecht,,Amersfoort,52.1562499,5.3896944,CITY
+3,Italy,Liguria,SV,Albenga,44.0491414,8.2127631,CITY
+3,United States of America,Maryland,Montgomery,Edgemoor,38.9812237,-77.0971082,ZIP
+3,Lebanon,,,Beirut,33.8959203,35.47843,CITY
+3,Canada,Manitoba,,Brandon,49.8502917,-99.9600601498632,CITY
+3,Brazil,,,,-8.4666145,-51.3333976,COUNTRY
+3,United States of America,Idaho,Ada County,Boise,43.615046,-116.2044429,CITY
+3,United States of America,Massachusetts,Middlesex County,Cambridge,42.3750997,-71.1056157,CITY
+3,United States of America,Ohio,Hamilton County,Cincinnati,39.1014537,-84.5124602,CITY
+3,Hong Kong,Hong Kong,Hong Kong Island,Hong Kong,22.2792878,114.161600385508,ADDRESS
+3,United States of America,Arizona,Maricopa County,Chandler,33.3568555,-111.8634748,CITY
+3,Australia,Australian Capital Territory,,Canberra,-35.2820709,149.1286673,CITY
+3,Croatia,,,,45.5643442,17.0118954,COUNTRY
+3,Brazil,Paraná,,Curitiba,-25.4286927,-49.272373,CITY
+3,Poland,Lesser Poland Voivodeship,Krakow,Krakow,50.0620694,19.9432458,ADDRESS
+3,Mexico,Morelos,Cuernavaca,,18.9332806,-99.259912442626,COUNTY
+3,United States of America,Texas,Brazos County,College Station,30.59088485,-96.3217655654836,CITY
+3,United States of America,Ohio,Cuyahoga County,Cleveland,41.4871888,-81.6778691,CITY
+3,United States of America,New York,Saratoga,Clifton Park,42.8656325,-73.7709535,CITY
+3,Romania,Cluj,Cluj-Napoca,Cluj-Napoca,46.7693367,23.5900604,CITY
+3,United States of America,Arizona,Coconino County,Flagstaff,35.1812075,-111.612853159412,CITY
+3,Canada,Alberta,Edmonton,,53.5558285,-113.557352747797,COUNTY
+3,United Kingdom,Scotland,Glasgow City,Glasgow,55.861147,-4.2499891,ZIP
+3,United Kingdom,England,Gloucestershire,,51.8333313,-2.1666674,COUNTY
+3,United States of America,California,Alameda County,Fremont,37.5482697,-121.9885719,CITY
+3,Ireland,,Galway,Galway,53.2839934,-9.03834040962519,CITY
+3,United States of America,Kansas,Johnson County,Gardner,38.810891,-94.9272163,CITY
+3,United States of America,Virginia,Fredericksburg City,Fredericksburg,38.3031837,-77.4605399,CITY
+3,Finland,Southern Finland,Helsingin seutukunta,Helsinki,60.1666277,24.9435079,CITY
+3,United Kingdom,England,Kingston upon Hull,Kingston upon Hull,53.7657076,-0.3370322,CITY
+3,United States of America,Texas,Dallas County,Irving,32.862876,-96.9791392558391,CITY
+3,United States of America,South Carolina,Berkeley County,Goose Creek,33.0126515,-80.0327595151383,CITY
+3,Canada,Ontario,,Hamilton,43.254687,-79.8678197,CITY
+3,The Netherlands,North Brabant,,Breda,51.5703346,4.8173611,ADDRESS
+3,Latvia,,,,56.8666904,24.5999717,COUNTRY
+3,Argentina,Buenos Aires,,La Plata,-34.921136,-57.954384,CITY
+3,United States of America,Iowa,Iowa,Iowa City,41.6606893,-91.5302214,CITY
+3,United States of America,Maine,,,45.709097,-68.8590201,STATE
+3,France,Rhône-Alpes,Lyon,Lyon,45.7575958,4.8323239,ZIP
+3,United States of America,Maine,,,45.709097,-68.8590201,STATE
+3,United States of America,Kansas,Riley County,Manhattan,39.1836082,-96.5716694,CITY
+3,United Kingdom,England,Lancashire,Manchester,53.4791466,-2.2447445,CITY
+3,Germany,Baden-Württemberg,Mannheim,Mannheim,49.4895914,8.4672361,CITY
+3,Switzerland,Vaud,District de Lausanne,Lausanne,46.5218269,6.6327025,CITY
+3,Republic of the Philippines,Metro Manila,Parañaque,Don Bosco,14.4838827,121.0314091,ADDRESS
+3,United States of America,California,Los Angeles County,Long Beach,33.7774658,-118.1884871,CITY
+2,India,Punjab,,,30.79492295,75.8936738739428,STATE
+2,Sweden,Skåne län,Lund Municipality,Lund,55.7029296,13.1929449,CITY
+2,Slovenia,Western Slovenia,,Ljubljana,46.049865,14.5068921,CITY
+2,Canada,Ontario,,London,42.988097,-81.2460295,CITY
+2,United Kingdom,England,London,London,51.5072759,-0.1276597,CITY
+2,United States of America,Utah,Utah,Lehi,40.4274582,-111.846294758707,CITY
+2,Liechtenstein,,,,47.1595036,9.54679247085336,COUNTRY
+2,Sweden,Östergötlands län,Linköping,Linköping,58.4098139,15.6245221,CITY
+2,Lithuania,,,,55.3500003,23.7499998,COUNTRY
+2,United States of America,New Jersey,Monmouth,Matawan,40.41483,-74.2295891,CITY
+2,United States of America,New Hampshire,Hillsborough County,Manchester,42.9956397,-71.4547891,CITY
+2,India,Karnataka,,Manipal,13.3522673,74.7872293,CITY
+2,Ukraine,Lviv Oblast,Halytskyi District,Львів,49.83577135,24.0134054360093,ADDRESS
+2,Turkey,İzmir,Konak,Izmir,38.4153421,27.144474,CITY
+2,Germany,Thuringia,Jena,,50.9224875,11.5887768640545,COUNTY
+2,Pakistan,Sindh,Karāchi District,Karachi,24.8741557,67.031789,CITY
+2,India,Kerala,,,10.4434977,76.2760779952608,STATE
+2,United States of America,West Virginia,Raleigh,Josephine,37.6201154,-81.223711,CITY
+2,People's Republic of China,Jilin,,,43.58192915,126.128413003892,STATE
+2,Uganda,,,Kampala,0.3162223,32.5821691,CITY
+2,United States of America,Michigan,Ingham County,Lansing,42.7337712,-84.5553805,CITY
+2,Japan,Kinki Region,Kuse District,Kyoto,35.0185804,135.763835,CITY
+2,United States of America,California,San Diego County,San Diego,32.8472711,-117.2742086,CITY
+2,United Kingdom,England,Kent,,51.2244644,0.7334215,COUNTY
+2,Germany,Schleswig-Holstein,Kiel,,54.3418225,10.1444023253091,COUNTY
+2,India,Kerala,Kottayam,Kochi,9.9452611,76.2512185,CITY
+2,United States of America,Pennsylvania,Montgomery County,King of Prussia,40.0948725,-75.3851485273188,CITY
+2,Canada,Ontario,,Kingston,44.2299618,-76.4805666,CITY
+2,Germany,Baden-Württemberg,GVV Dreisamtal,Kirchzarten,47.9651587,7.9573239,ZIP
+2,India,,The Nilgiris,Gudalur,11.4992417,76.4923903,CITY
+2,Canada,Nova Scotia,Halifax County,Halifax,44.6484246,-63.5749724,CITY
+2,Germany,Baden-Württemberg,Heidelberg,,49.4064484,8.71497043261055,COUNTY
+2,United States of America,California,Los Angeles County,Hermosa Beach,33.86428,-118.39591,CITY
+2,United States of America,New York,New York,Irvington,41.0352605,-73.8647660840129,CITY
+2,India,,,,22.3511148,78.6677428,COUNTRY
+2,Hong Kong,Hong Kong,Hong Kong Island,Hong Kong,22.2644116,114.1670609,CITY
+2,Hong Kong,Hong Kong,Hong Kong Island,Hong Kong,22.2644116,114.1670609,CITY
+2,United States of America,Oregon,Washington County,Hillsboro,45.5228939,-122.989827,CITY
+2,United States of America,New Jersey,Hudson,Hoboken,40.7433066,-74.0323752,CITY
+2,Germany,Free State of Bavaria,Neustadt a.d.Aisch-Bad Windsheim,Frankfurt,49.6812452,10.5267012,ZIP
+2,United States of America,Florida,Broward County,Fort Lauderdale,26.1254381,-80.1381515,ADDRESS
+2,United States of America,Indiana,Allen County,Fort Wayne,41.0799898,-85.1386015,CITY
+2,South Africa,Gauteng,,,-25.9363439,28.0813105,STATE
+2,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk,54.3482259,18.6542888,CITY
+2,United Kingdom,Scotland,Glasgow City,Glasgow,55.861147,-4.2499891,ZIP
+2,United States of America,Tennessee,Davidson County,Goodlettsville,36.3231067,-86.7133302,CITY
+2,United States of America,Kentucky,Metcalfe County,Edmonton,36.9800563,-85.6121906,CITY
+2,Egypt,,,,26.2540493,29.2675469,COUNTRY
+2,United States of America,Maryland,Howard County,Ellicott City,39.2673284,-76.7983067,CITY
+2,United States of America,Virginia,Falls Church City,Falls Church,38.882334,-77.1710914,CITY
+2,United States of America,Virginia,Prince Edward County,Farmville,37.3020966,-78.3919403,CITY
+2,United States of America,Florida,Broward County,Coral Springs,26.26569405,-80.2653395734081,CITY
+2,United States of America,South Carolina,Fairfield,Columbia,34.0872775,-80.981149735255,CITY
+2,South Korea,Daegu,,Daegu,35.8404121,128.5586643,CITY
+2,United States of America,Colorado,El Paso County,Colorado Springs,38.8338816,-104.8213634,CITY
+2,United States of America,California,Yolo County,Davis,38.5552269,-121.744006046837,CITY
+2,Cyprus,,,,34.9823018,33.1451285,COUNTRY
+2,United States of America,Colorado,Denver County,,39.76426375,-104.954814393925,COUNTY
+2,Dominican Republic,,,,19.094175,-70.3012705,COUNTRY
+2,United States of America,,District of Columbia,,38.8937364,-76.9878113963744,COUNTY
+2,United Arab Emirates,,,Dubai,25.268359,55.2963958,CITY
+2,Austria,Vienna,Bezirk Wien,Vienna,48.216118,16.3663222,ADDRESS
+2,United Kingdom,England,London,Camden,51.5392776,-0.1432419,CITY
+2,United States of America,South Carolina,Berkeley County,Charleston,32.8835025,-79.9486416422387,CITY
+2,United States of America,Colorado,Douglas County,Castle Rock,39.3763865,-104.839754971065,CITY
+2,Mexico,Nuevo León,China,,25.4916386,-98.9811730564718,COUNTY
+2,People's Republic of China,Sichuan,双流县,Chengdu,30.6765038,104.0613634,CITY
+2,India,,,Chennai,13.0804251,80.281807,ZIP
+2,Mexico,Chihuahua,,,28.5000001,-106.0000001,STATE
+2,Germany,Baden-Württemberg,Landkreis Calw,Calw,48.7150331,8.7388853,ZIP
+2,United States of America,West Virginia,Braxton County,Burnsville,38.8562069,-80.6548179,CITY
+2,United States of America,California,Los Angeles County,Burbank,34.181547,-118.3084489,CITY
+2,United States of America,New York,Erie County,Buffalo,42.8864468,-78.8783689,CITY
+2,United States of America,Virginia,Montgomery County,Blacksburg,37.2295733,-80.4139393,CITY
+2,United Kingdom,England,West Midlands,Birmingham,52.4813679,-1.8980726,CITY
+2,United States of America,California,Los Angeles County,Beverly Hills,34.082549,-118.406260995968,CITY
+2,United States of America,Alabama,Jefferson,Birmingham,33.570499,-86.765783,ADDRESS
+2,United States of America,New Jersey,Middlesex,Old Bridge Township,40.398995,-74.288741,ADDRESS
+2,United States of America,Massachusetts,Suffolk,Boston,42.3500971,-71.1564423,CITY
+2,United Kingdom,England,Brighton and Hove,Brighton,50.82221,-0.1377534,CITY
+2,United Kingdom,Northern Ireland,County Antrim,Belfast,54.5969467,-5.9301554,CITY
+2,United States of America,Washington,King County,Bellevue,47.5990002,-122.156399587582,CITY
+2,United States of America,Oregon,Deschutes County,Bend,44.0581728,-121.3153096,CITY
+2,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+2,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+2,United Kingdom,England,Somerset,Bath,51.3813864,-2.3596963,ZIP
+2,Kazakhstan,Almaty Province,Almaty,Almaty,43.2389912,76.9453467,CITY
+2,Ethiopia,Addis Ababa,,,8.96618,38.7891863622211,STATE
+2,Australia,,,,-27.2692649,136.1048783,COUNTRY
+2,Iran,,,,32.9407496,52.9471344,COUNTRY
+2,Romania,Arad,,,46.2935339,21.8935970743684,STATE
+2,United States of America,Alaska,Anchorage,Anchorage,61.218056,-149.9002806,CITY
+2,Armenia,,,,40.7696272,44.6736646,COUNTRY
+2,United States of America,Connecticut,New York,Babylon,40.6956552,-73.3256753,CITY
+2,Germany,Hesse,Hochtaunuskreis,Bad Homburg vor der Höhe,50.222833,8.6292306,CITY
+2,Japan,Kanagawa,Yokosuka,Yokosuka,35.26015995,139.68667229907,CITY
+2,United States of America,Kansas,Sedgwick County,Wichita,37.6922361,-97.3375448,CITY
+2,Russian Federation,Sverdlovsk Oblast,муниципальное образование город Екатеринбург,Yekaterinburg,56.8391034,60.6082502,CITY
+2,United States of America,Iowa,Iowa,Waverly,42.7258142,-92.4754626,CITY
+2,United States of America,Massachusetts,Worcester County,Webster,42.0500965,-71.880072,CITY
+2,United States of America,Ohio,Adams County,West Union,38.7945166,-83.5451934,CITY
+2,United States of America,New York,Westchester,,41.1763139,-73.7907554,COUNTY
+2,Australia,Western Australia,,,-25.2303005,121.0187246,STATE
+2,The Netherlands,Netherlands,,,52.2378498,5.53445746584715,STATE
+2,United Arab Emirates,,,Dubai,25.25294665,55.1770947050816,CITY
+2,Japan,,北葛飾郡,Tokyo,35.6800712,139.7685224,CITY
+2,Australia,New South Wales,,Sydney,-33.8548157,151.2164539,CITY
+2,United States of America,Ohio,Summit County,Tallmadge,41.1014451,-81.441779,CITY
+2,United Kingdom,Scotland,Stirlingshire,Stirling,56.1181242,-3.9360012,CITY
+2,Fiji,,,Nasinu,-18.0629787,178.4642546,ADDRESS
+2,People's Republic of China,Jiangsu,,Sūzhōu,31.2984758,120.622239,CITY
+2,People's Republic of China,Guangdong,博罗县,Shenzhen,22.5462321,114.0570068,CITY
+2,United States of America,Utah,Utah,Spanish Fork,40.114955,-111.654923,CITY
+2,United States of America,,District of Columbia,Washington,38.8951148,-77.0363716,CITY
+2,United States of America,Virginia,,,37.1232245,-78.4927721,STATE
+2,India,,Visakhapatnam,,17.7336579,83.2667239,COUNTY
+2,Russian Federation,Primorsky Krai,Владивостокский городской округ,Vladivostok,43.1152835,131.8854009,CITY
+2,Norway,Sør-Trøndelag,Trondheim,Trondheim,63.4263262,10.3958034,CITY
+2,United States of America,Minnesota,Ramsey County,Arden Hills,45.0955107,-93.1861604,ZIP
+2,Ukraine,,,,49.4871968,31.2718321,COUNTRY
+2,United States of America,Arizona,Pima,Tucson,32.2217429,-110.926479,CITY
+2,The Netherlands,Province of Limburg,,Maastricht,50.8429603188279,5.71211379318349,ADDRESS
+2,United States of America,California,Alameda,Union City,37.5963232,-122.0816297,CITY
+2,United States of America,Indiana,Saint Joseph,Notre Dame,41.7031036,-86.2391732,ADDRESS
+2,Belarus,,,,53.4250438,27.6999547,COUNTRY
+2,India,Maharashtra,,,18.64306615,73.9318300392037,STATE
+2,Canada,Quebec,,,54.0,-72.0,STATE
+2,Australia,Queensland,,,-21.9182856,144.4588889,STATE
+2,United States of America,California,Riverside County,Riverside,33.9458443,-117.410096815875,CITY
+2,United States of America,Rhode Island,,,41.7962409,-71.5992372,STATE
+2,United States of America,Florida,Escambia County,Pensacola,30.421309,-87.2169149,CITY
+2,United States of America,Pennsylvania,Allegheny County,Pittsburgh,40.4416941,-79.9900861,CITY
+2,United States of America,Massachusetts,Essex County,Peabody,42.5278731,-70.9286609,CITY
+2,United States of America,New Jersey,Mercer,Princeton,40.3492744,-74.6592958,CITY
+2,United States of America,Rhode Island,Providence County,Providence,41.8239891,-71.4128343,CITY
+2,United States of America,Utah,Utah,Sandy,40.5728335,-111.833449728857,CITY
+2,Spain,Canary Islands,Tenerife,Santa Cruz de Tenerife,28.4597823,-16.2536378,CITY
+2,Portugal,,,Lisbon,38.7589466,-9.1180534,ADDRESS
+2,United States of America,California,Los Angeles County,Santa Monica,34.008617,-118.494754033795,CITY
+2,United States of America,California,Sonoma County,Santa Rosa,38.369113,-122.760071060047,CITY
+2,Argentina,Santa Fe,,,-30.3154739,-61.1645076,STATE
+2,United States of America,Washington,King County,Seattle,47.6038321,-122.3300624,CITY
+2,United States of America,California,San Mateo,San Mateo,37.6216436,-122.383342936648,ADDRESS
+2,Serbia,,,,44.1534121,20.55144,COUNTRY
+2,United States of America,New Jersey,Hudson,Secaucus,40.7895453,-74.0565298,CITY
+2,United States of America,Florida,Orange County,Orlando,28.5478194109301,-81.4127947956743,ADDRESS
+2,United States of America,Oklahoma,,,34.9550817,-97.2684063,STATE
+2,Paraguay,,,,-23.3165935,-58.1693445,COUNTRY
+2,United States of America,Florida,Seminole County,Oviedo,28.6594105,-81.2046970156607,CITY
+2,France,Provence-Alpes-Côte-d'Azur,Nice,Nice,43.7009358,7.2683912,ZIP
+2,United States of America,New York,New York,New York City,40.7305991,-73.9865812,CITY
+2,United States of America,Illinois,Will,Joliet,41.7203393,-88.1932547,ADDRESS
+2,United States of America,Washington,Spokane,Mead,47.7673923,-117.354939,CITY
+2,United States of America,Maryland,Frederick,Middletown,39.4437123,-77.5447102,CITY
+2,Namibia,,,,-23.2335499,17.3231107,COUNTRY
+2,Thailand,Nan,,,18.81722045,100.801300642733,STATE
+2,Uruguay,Montevideo,,Montevideo,-34.9059039,-56.1913569,CITY
+2,Republic of the Philippines,Metro Manila,Parañaque,Don Bosco,14.4838827,121.0314091,ADDRESS
+1,Germany,Free State of Bavaria,Munich,,48.1372719,11.5754815,COUNTY
+1,India,Maharashtra,Greater Bombay,Mumbai,18.9387039,72.8353711,CITY
+1,United States of America,California,Contra Costa,Mountain View,38.0091199337357,-122.116837106443,ADDRESS
+1,France,Languedoc-Roussillon,Montpellier,,43.60858705,3.94384226449662,COUNTY
+1,Canada,Quebec,,Montreal city,45.5224507,-73.5912827,CITY
+1,Canada,Manitoba,,Morden,49.1887384,-98.1172235922014,CITY
+1,United States of America,West Virginia,Monongalia County,Morgantown,39.629526,-79.9558968,CITY
+1,Morocco,,,,31.2005672,-7.3205368,COUNTRY
+1,People's Republic of China,Jiangsu,溧水县,Nanjing,32.0609158,118.7916065,CITY
+1,Canada,Ontario,,Napanee,44.2479926,-76.9510646,CITY
+1,United States of America,Illinois,DuPage County,Naperville,41.7824837,-88.1495225,CITY
+1,United Kingdom,Wales,West Glamorgan,Neath,51.6628422,-3.8039117,CITY
+1,Kenya,Central,,Nairobi,-1.2832533,36.8172449,CITY
+1,Ukraine,Lviv Oblast,Drohobych City Council,Drohobych,49.353682,23.515145,ADDRESS
+1,United States of America,California,Ventura,Ventura,34.2352227,-119.0374351,ADDRESS
+1,United States of America,South Carolina,Horry County,Myrtle Beach,33.6955167,-78.8817622,CITY
+1,India,Karnataka,Mysore,,12.0,76.5,COUNTY
+1,India,Karnataka,Mysore,,12.0,76.5,COUNTY
+1,India,,Kanniyākumāri,Nagercoil,8.1764162,77.4258153,ZIP
+1,Seychelles,,,Milky Way,-7.1280388,52.7448393,CITY
+1,United States of America,California,Santa Clara County,Milpitas,37.43143895,-121.885265953734,CITY
+1,Brazil,Minas Gerais,,,-18.5264844,-44.1588654,STATE
+1,Montenegro,,,,43.0285558,19.291739,COUNTRY
+1,United States of America,Minnesota,,,45.9896587,-94.6113288,STATE
+1,United States of America,Montana,Missoula County,Missoula,46.8795445,-113.921434492864,CITY
+1,United States of America,Pennsylvania,Crawford County,Meadville,41.6414438,-80.1514484,CITY
+1,United States of America,Washington,Snohomish County,Marysville,48.0627432,-122.1633358,CITY
+1,Italy,Veneto,VE,Mestre,45.4953505,12.2434095,CITY
+1,United States of America,Florida,Miami-Dade County,Miami Springs,25.800431,-80.263219,ADDRESS
+1,Australia,Victoria,City of Melbourne,Melbourne,-37.8142176,144.9631608,ZIP
+1,United Kingdom,England,Peterborough,Peterborough,52.5934191,-0.2491985,CITY
+1,United States of America,Nebraska,Otoe County,Nebraska City,40.6766683,-95.8591686,CITY
+1,Canada,New Brunswick,,,46.5000002,-66.7500001,STATE
+1,The Netherlands,Utrecht,Bestuur Regio Utrecht,Nieuwegein,52.0367157,5.0836086,CITY
+1,Russian Federation,Nizhny Novgorod Oblast,Город Нижний Новгород,Nizhny Novgorod,56.3241427,43.9902091,CITY
+1,Australia,Victoria,City of Whitehorse,Nunawading,-37.8233322,145.1812006,ADDRESS
+1,United States of America,Virginia,Portsmouth (city),Norfolk,36.8468146,-76.2852183,CITY
+1,Germany,North Rhine-Westphalia,,,51.4785568,7.5533645,STATE
+1,Germany,North Rhine-Westphalia,,,51.4785568,7.5533645,STATE
+1,Canada,British Columbia,Greater Vancouver Regional District,Coquitlam,49.2696766,-122.8933764,ADDRESS
+1,United Kingdom,England,Northumberland,,55.25,-2.000559,COUNTY
+1,United Kingdom,England,Nottingham,Nottingham,52.9549771,-1.1511066,CITY
+1,United Kingdom,England,Nottingham,Nottingham,52.9549771,-1.1511066,CITY
+1,Russian Federation,Tula Oblast,Новомосковск,Novomoskovsk,54.0110136,38.2909423,CITY
+1,Russian Federation,Novosibirsk Oblast,Новосибирск,Novosibirsk,55.0282215,82.9234476,ZIP
+1,India,Kerala,Pālghāt,Palakkad,10.7759233,76.6438011,ZIP
+1,United States of America,Texas,Anderson County,Palestine,31.7524045,-95.6393437131004,CITY
+1,United States of America,Florida,Brevard County,Palm Bay,28.0331886,-80.6429695,CITY
+1,Spain,Balearic Islands,Palma,Palma,39.5695824,2.6500714,CITY
+1,United Kingdom,England,Oxfordshire,,51.833333,-1.25,COUNTY
+1,United States of America,California,San Mateo County,Pacifica,37.616412,-122.474160149966,CITY
+1,France,Île-de-France,Paris,Paris,48.8565056,2.3521334,ZIP
+1,United States of America,Rhode Island,Providence County,Pawtucket,41.878711,-71.3825558,CITY
+1,United States of America,New Jersey,Middlesex,Old Bridge Township,40.4041675,-74.3102509804549,CITY
+1,Germany,Hesse,Offenbach am Main,,50.09219445,8.78191820870795,COUNTY
+1,United States of America,Utah,Weber County,Ogden,41.21607745,-112.008048404781,CITY
+1,United States of America,New York,,,43.1561681,-75.8449946,STATE
+1,Republic of the Philippines,Metro Manila,Manila,Port Area,14.5931191,120.9590676,ADDRESS
+1,United States of America,Iowa,Iowa,Oskaloosa,41.296395,-92.6443593,CITY
+1,United States of America,Utah,Utah,Orem,40.2975185,-111.6944685,CITY
+1,India,,,Secunderabad,17.4766511,78.5274695,ZIP
+1,South Korea,Seoul,,,37.5710824,126.9953036,STATE
+1,United States of America,Washington,King County,Seattle,47.6038321,-122.3300624,CITY
+1,United States of America,Tennessee,Sevier County,Sevierville,35.8681455,-83.561835,CITY
+1,Seychelles,,,,-4.6574977,55.4540146,COUNTRY
+1,United States of America,Maryland,Montgomery County,Silver Spring,39.00884145,-77.0205440580873,CITY
+1,United Kingdom,England,South Yorkshire,Sheffield,53.3820287,-1.4657174,CITY
+1,United States of America,Massachusetts,Middlesex County,Somerville,42.3875968,-71.0994968,CITY
+1,United States of America,Washington,King County,Seattle,47.6038321,-122.3300624,CITY
+1,United Kingdom,Scotland,,,56.7861112,-4.1140518,STATE
+1,Bosnia and Herzegovina,Entity Federation of Bosnia and Herzegovina,New Sarajevo municipality,Sarajevo,43.8514981,18.3886134,CITY
+1,United States of America,New York,Saratoga,,43.0833231,-73.8712155,COUNTY
+1,Canada,Saskatchewan,,Saskatoon,52.1303794,-106.6605124,CITY
+1,Brazil,São Paulo,,Salto,-23.1989983,-47.2913682,CITY
+1,Austria,Salzburg (state),Bezirk Salzburg,Salzburg,47.8001977,13.0410592,CITY
+1,United Kingdom,England,City of London,City of London,51.5130871800851,-0.0837676424383877,ADDRESS
+1,United States of America,California,Sacramento,,38.4840756,-121.0740108,COUNTY
+1,Russian Federation,Saint Petersburg,,Шушары,59.8108365,30.4409952109279,ZIP
+1,United Kingdom,England,East Sussex,Rye,50.9511871,0.7327667,CITY
+1,Italy,Lazio,RM,Rome,41.8932575,12.4830619,CITY
+1,United States of America,California,Santa Cruz County,Santa Cruz City Landfill,36.97308495,-122.106127564785,CITY
+1,United States of America,California,Marin County,San Rafael,37.9735346,-122.5310874,CITY
+1,United States of America,California,San Francisco City and County,San Francisco,37.7789601,-122.419199,CITY
+1,United States of America,Rhode Island,Providence County,Providence,41.8239891,-71.4128343,CITY
+1,United States of America,New York,Saint Lawrence County,Potsdam,44.6697805,-74.9813084,CITY
+1,United States of America,Virginia,Portsmouth (city),Portsmouth,36.8354258,-76.2982742,CITY
+1,Canada,Prince Edward Island,,,46.3202067,-63.45941,STATE
+1,Canada,Prince Edward Island,,,46.3202067,-63.45941,STATE
+1,United States of America,Oregon,Multnomah County,Portland,45.5202471,-122.6741949,CITY
+1,United States of America,Illinois,Peoria County,Peoria,40.6938609,-89.5891008,CITY
+1,United States of America,New Hampshire,Hillsborough County,Peterborough,42.8706392,-71.9517459,CITY
+1,United States of America,Texas,Dallas,Richardson,32.9481789,-96.7297206,CITY
+1,United States of America,Washington,Benton County,Richland,46.2778406,-119.2769067,CITY
+1,United States of America,Indiana,Wayne County,Richmond,39.8289369,-84.8902383,CITY
+1,Latvia,Vidzeme,Rīga,Riga,56.9493977,24.1051846,CITY
+1,United States of America,Idaho,Madison County,Rexburg,43.8235163,-111.7870222,CITY
+1,Saudi Arabia,,,Riyadh,24.6320297,46.7149069,CITY
+1,United States of America,Illinois,Winnebago County,Rockford,42.2713945,-89.093966,CITY
+1,United States of America,California,Sonoma County,Rohnert Park,38.343412,-122.701966581803,CITY
+1,Republic of the Philippines,Metro Manila,District IV,Quezon City,14.6510101,121.0486031,CITY
+1,Qatar,,,,25.3336984,51.2295295,COUNTRY
+1,United States of America,California,San Mateo County,Menlo Park,37.4938501,-122.138976442451,ZIP
+1,United States of America,California,San Mateo County,Redwood City,37.465293,-122.260247493256,CITY
+1,United States of America,North Carolina,Durham,Raleigh,35.7803888,-78.6390587,CITY
+1,United States of America,California,San Diego County,San Diego,33.0340740767845,-116.865090320437,ADDRESS
+1,United States of America,Texas,Tarrant County,Arlington,32.7311719,-97.115058,ADDRESS
+1,Canada,New Brunswick,Kings County,Upham,45.4891669,-65.6640714,CITY
+1,United States of America,Wisconsin,Milwaukee County,Milwaukee,43.0382187474073,-87.9045686899019,ADDRESS
+1,Italy,Friuli-Venezia Giulia,UD,Udine,46.0650933,13.2376674,CITY
+1,United States of America,,,,39.7837304,-100.4458825,COUNTRY
+1,United States of America,,,,39.7837304,-100.4458825,COUNTRY
+1,United States of America,Oklahoma,Tulsa County,Tulsa,36.1524357,-95.9904093,CITY
+1,Italy,Piemont,TO,Turin,45.0709201,7.685972,CITY
+1,Mongolia,Border Ulan Bator - Töv,,Ulaanbaatar,47.9184676,106.9177016,CITY
+1,Germany,Baden-Württemberg,Ulm,Ulm,48.398312,9.9910464,CITY
+1,Turkey,Çanakkale,Çanakkale merkez,Kalafat,39.9568844,26.2373533,CITY
+1,United States of America,Oregon,Washington County,Tualatin,45.3838546,-122.7663518,CITY
+1,Italy,Trentino-Alto Adige/Südtirol,TN,Trento,46.0664228,11.1257601,CITY
+1,Germany,Rhineland-Palatinate,Trier,Trier,49.7557338,6.6402058,CITY
+1,United States of America,Washington,,,47.2868352,-120.2126139,STATE
+1,United States of America,North Carolina,Granville,Wake Forest,35.9798734,-78.5097228,CITY
+1,Vietnam,,,,13.2904027,108.4265113,COUNTRY
+1,France,Rhône-Alpes,Lyon,Villeurbanne,45.7665222,4.8796485,ZIP
+1,United States of America,Virginia,Richmond (city),Richmond,37.5485144,-77.4517978,ADDRESS
+1,Canada,Ontario,,Waterdown,43.3313677,-79.8954931,CITY
+1,United States of America,Ohio,Fayette County,Washington Court House,39.5364511,-83.4390843,CITY
+1,United States of America,,District of Columbia,Washington,38.8951148,-77.0363716,CITY
+1,United States of America,New York,Oneida County,Utica,43.1009031,-75.2326641,CITY
+1,Australia,Victoria,,,-37.3643443,145.4020432,STATE
+1,Portugal,,,Viana do Castelo,41.694908,-8.8304609,CITY
+1,United States of America,Washington,Spokane County,Spokane,47.6588603,-117.4247134,CITY
+1,United States of America,Florida,,St. Augustine,29.894691,-81.314517,CITY
+1,United States of America,Pennsylvania,Bucks,Southampton,40.1742759,-75.0437814,CITY
+1,France,Provence-Alpes-Côte-d'Azur,Grasse,Valbonne,43.619776,7.0477082,CITY
+1,Bulgaria,Северен-централен район за планиране,Veliko Tarnovo Region,Svishtov,43.6158817,25.3509536,CITY
+1,United Kingdom,England,London,Royal Borough of Kingston upon Thames,51.3930155,-0.3067742,CITY
+1,United Kingdom,England,London,City of Westminster,51.5120352621026,-0.126854186350873,ADDRESS
+1,Sweden,Uppsala län,Uppsala,Storvreta,59.9569381,17.7042096,CITY
+1,Germany,Baden-Württemberg,Stuttgart,Stuttgart,48.7763511,9.1829049,CITY
+1,Serbia,Vojvodina,Subotica City,Subotica,46.1000129,19.6640974,CITY
+1,United States of America,South Carolina,Dorchester County,Summerville,32.9960965,-80.2021633056339,CITY
+1,Sweden,Stockholms län,Stockholm,Stockholm,59.3307611,18.0613099,CITY
+1,United Kingdom,England,Staffordshire,Stafford,52.8071984,-2.117265,CITY
+1,India,Tamil Nadu,,,11.80834995,79.7745158113182,STATE
+1,Finland,Länsi-Suomi,Pirkanmaa,Tampere,61.4980214,23.7603118,CITY
+1,Argentina,Buenos Aires,,Tandil,-37.3213732,-59.1334196,CITY
+1,United States of America,West Virginia,Nicholas,Swiss,38.2331623,-81.127884,CITY
+1,Canada,Ontario,,Toronto,43.6529206,-79.3849008,CITY
+1,United States of America,Tennessee,Davidson,Nashville-Davidson,36.110365,-86.890819,ADDRESS
+1,United States of America,Rhode Island,Bristol,Tiverton,41.6259357,-71.2133801,CITY
+1,India,Kerala,Trivandrum,Thiruvananthapuram,8.5058006,76.957393,ZIP
+1,United States of America,California,Orange County,Westminster,33.74695855,-117.989666533105,CITY
+1,United States of America,North Carolina,Forsyth County,Winston-Salem,36.107356,-80.2529750912614,CITY
+1,United States of America,Florida,Orange County,Winter Park,28.600154,-81.3427567241316,CITY
+1,United States of America,North Carolina,Union,Wesley Chapel,35.0070935,-80.6745131,CITY
+1,United States of America,Pennsylvania,Chester County,West Chester,39.960185,-75.6054709977898,CITY
+1,Canada,British Columbia,Regional District of Nanaimo,Nanaimo,49.1848666,-123.9890834,ADDRESS
+1,United States of America,Maine,York,West Lebanon,43.3823036,-70.9506183,CITY
+1,Indonesia,Special Region of Yogyakarta,,,-7.8693729,110.402582,STATE
+1,Japan,Kanagawa,Yokohama,Yokohama,35.4449524,139.6421049,CITY
+1,Australia,New South Wales,,Yass,-34.8362784,148.9156645,CITY
+1,United Kingdom,England,South Gloucestershire,Yate,51.540345,-2.4133094,ZIP
+1,Germany,Free State of Bavaria,Landkreis Passau,Pocking,48.4054606,13.2901067,ADDRESS
+1,"Majorca and Minorca, Spain (territorial waters)",Balearic Islands,Raiguer,Selva,39.8119426,2.9042489,CITY
+1,United States of America,Wisconsin,,,44.4308975,-89.6884637,STATE
+1,Australia,New South Wales,,Wollongong,-34.4243941,150.89385,CITY
+1,United States of America,Illinois,DuPage County,Woodridge,41.7473663,-88.046129,CITY
+1,United States of America,Alabama,Bibb County,Woodstock,33.2067835,-87.1499961,CITY
+1,United States of America,Massachusetts,Worcester County,Worcester,42.2625932,-71.8022934,CITY
+1,Ukraine,Zhytomyr Oblast,Житомирський район,Zhytomyr,50.2598298,28.6692345,ZIP
+1,United Kingdom,England,York,York,53.9590555,-1.0815361,CITY
+1,United Kingdom,England,York,York,53.9590555,-1.0815361,CITY
+1,United States of America,California,San Bernardino County,Yucaipa (City of),34.0407185,-117.051676166367,CITY
+1,Croatia,,Grad Zagreb,Zagreb,45.8166064,16.009434337311,CITY
+1,Spain,Aragon,Zaragoza,Zaragoza,41.6521342,-0.8809428,CITY
+1,Germany,North Rhine-Westphalia,Städteregion Aachen,Baesweiler,50.9071806,6.1802192,ZIP
+1,United States of America,California,Kern County,Bakersfield,35.2691105,-119.0253881802,CITY
+1,Argentina,,,Autonomous City of Buenos Aires,-34.6160193,-58.435556022292,CITY
+1,United States of America,Virginia,Loudoun,Ashburn,39.0437192,-77.4874899,CITY
+1,United States of America,Oregon,Clatsop County,Astoria,46.1878845,-123.8312563,CITY
+1,United States of America,New Jersey,New York,Astoria,40.7719538,-73.9299783,CITY
+1,United States of America,Texas,Travis County,Austin,30.350177,-97.5711440508783,CITY
+1,United States of America,Texas,Tarrant County,Arlington,32.701843,-97.1399759754197,CITY
+1,United States of America,Iowa,Story County,Ames,42.0346917,-93.6201507,CITY
+1,Jordan,,,Amman,31.9515694,35.9239625,CITY
+1,The Netherlands,North Holland,Stadsregio Amsterdam,Amsterdam,52.3710088,4.9001115,CITY
+1,United States of America,Wisconsin,Outagamie County,Appleton,44.2611337,-88.4067604,CITY
+1,United States of America,Washington,Pierce County,Home,47.274818,-122.7637451,CITY
+1,India,,,,22.75666735,72.2986778676301,COUNTRY
+1,Canada,Quebec,,Montreal city,45.4177235,-73.6344518,ADDRESS
+1,Denmark,Region Midtjylland,Aarhus Kommune,Aarhus,56.1496278,10.2134046,CITY
+1,United Kingdom,Wales,Ceredigion,Aberystwyth,52.4146545,-4.0778713,CITY
+1,Canada,Alberta,,,55.0,-114.9999999,STATE
+1,Switzerland,Graubünden - Grigioni - Grischun,Albula,Bergün/Bravuogn,46.6077259,9.78242759959724,CITY
+1,United States of America,Texas,Potter County,Amarillo,35.201967,-101.813802901497,CITY
+1,American Samoa,,,,-14.2893037,-170.6925106,COUNTRY
+1,United States of America,California,Riverside County,Indio,33.7237578,-116.2673013,ADDRESS
+1,United States of America,Wisconsin,Kewaunee County,Algoma,44.6107841,-87.4387358,CITY
+1,Spain,Valencian Community,Alacantí,Alicante/Alacant,38.37555435,-0.531416889824083,CITY
+1,India,,,Ahmedabad,23.0216238,72.5797068,ZIP
+1,United States of America,Ohio,Summit,Akron,41.0814447,-81.5190053,CITY
+1,Egypt,,,15 of May,29.7606147,31.2983139,CITY
+1,United States of America,Alaska,,,64.4459613,-149.680909,STATE
+1,United States of America,California,San Francisco City and County,San Francisco,37.7884969,-122.3558473,CITY
+1,United States of America,California,San Francisco City and County,San Francisco,37.7884969,-122.3558473,CITY
+1,Colombia,Atlántico,Barranquilla,Barranquilla,10.979932,-74.7957384,CITY
+1,United Kingdom,England,Somerset,Bath,51.3813864,-2.3596963,ZIP
+1,India,Karnataka,Bangalore Metropolitan Area (BDA),Electronics City Phase 1,12.8459614,77.6682808,ADDRESS
+1,The Gambia,,,Banjul,13.4535144,-16.5750607,CITY
+1,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+1,Indonesia,West Java,,Bandung,-6.9220482,107.6065309,CITY
+1,India,Karnataka,Bangalore Metropolitan Area (BDA),Bangalore,12.9793998,77.5903608,CITY
+1,United States of America,Pennsylvania,Lancaster County,Benton,39.7764928,-76.2510674,CITY
+1,United States of America,Pennsylvania,Northampton,Bethlehem,40.6178915,-75.3786521,CITY
+1,United Kingdom,Northern Ireland,County Antrim,Belfast,54.5969467,-5.9301554,CITY
+1,Serbia,Central Serbia,Belgrade,Belgrade,44.8178787,20.4568089,CITY
+1,United States of America,Pennsylvania,Fayette County,Belle Vernon,40.1250725,-79.8664356,CITY
+1,Belarus,Минская область,,Minsk,53.87612,27.63014,ADDRESS
+1,Canada,Ontario,,Brampton,43.714575,-79.7523867,CITY
+1,United Kingdom,England,Dorset,Bridport,50.7340451,-2.7593163,CITY
+1,Romania,Brașov,Brașov,Brașov,45.6617015,25.5963363093582,CITY
+1,Slovakia,Bratislavský kraj,Bratislava,Bratislava,48.1535383,17.1096711,CITY
+1,United States of America,Vermont,Windham County,Brattleboro,42.8509152,-72.5578678,CITY
+1,Germany,Lower Saxony,Braunschweig,Brunswick,52.2643004,10.5251064,CITY
+1,United States of America,Florida,Palm Beach County,Boynton Beach,26.5253491,-80.0664309,CITY
+1,United States of America,Washington,Skagit County,Bow,48.5617742,-122.3982194,CITY
+1,Switzerland,Argovia,Bezirk Brugg,Birr,47.4345344,8.2029778,ZIP
+1,United States of America,New Jersey,Essex,Bloomfield,40.806767,-74.1854226,CITY
+1,France,Aquitaine,Bordeaux,,44.7987346,-0.606101236558628,COUNTY
+1,Republic of the Philippines,Metro Manila,Manila,Port Area,14.5876182,120.9681762,ADDRESS
+1,Germany,Baden-Württemberg,Landkreis Karlsruhe,Bruchsal,49.124118,8.5980244,CITY
+1,Belgium,Flanders,Brugge,Brugge,51.2318283,3.20778222299101,CITY
+1,Belgium,Brussels-Capital Region,Brussels-Capital,Brussels,50.8465406,4.3516841,ZIP
+1,United Kingdom,England,Staffordshire,Staffordshire Moorlands,53.1162309217768,-2.16994729455723,ADDRESS
+1,Canada,Ontario,,Brockville,44.5905537,-75.685306,CITY
+1,United States of America,Wisconsin,Waukesha County,Brookfield,43.0605671,-88.1064787,CITY
+1,United States of America,Colorado,Broomfield County,,39.9666235,-105.035213333628,COUNTY
+1,United States of America,California,San Mateo County,Burlingame,37.58788275,-122.362741659182,CITY
+1,Canada,Ontario,,Burlington,43.3235642,-79.8011553,CITY
+1,Egypt,,,Cairo,30.0488185,31.2436663,CITY
+1,United States of America,Vermont,Chittenden County,Burlington,44.4723989,-73.2114941,CITY
+1,United Kingdom,England,Surrey,Camberley,51.3394103,-0.7406293,CITY
+1,Cambodia,,,,13.5066394,104.869423,COUNTRY
+1,United States of America,Oregon,Multnomah County,Portland,45.5210497,-122.679261675954,ADDRESS
+1,Chile,,,,-31.7613365,-71.3187697,COUNTRY
+1,Canada,British Columbia,Fraser Valley Regional District,Chilliwack,49.166667,-121.95,CITY
+1,Thailand,Chiang Mai,,,18.6979546,98.6179620529052,STATE
+1,Canada,Ontario,,Claremont,43.9721543,-79.1303242,CITY
+1,People's Republic of China,Chongqing,壁山县,Chongqing,29.5585712,106.5492822,CITY
+1,United States of America,Ohio,Hamilton County,Cincinnati,39.1014537,-84.5124602,CITY
+1,Italy,Sicily,CT,Catania,37.5028972,15.0870338,CITY
+1,Republic of the Philippines,Cebu,,,10.45,123.84,STATE
+1,Venezuela,Capital District,,Caracas,10.5062524,-66.9145167,CITY
+1,United States of America,North Carolina,Wake County,Cary,35.7882973,-78.7811925,CITY
+1,Brazil,São Paulo,RMC,Campinas,-22.90556,-47.06083,CITY
+1,Brazil,Rio de Janeiro,Microrregião Rio de Janeiro,Mesquita,-22.8771855,-43.570148,CITY
+1,Canada,,,,61.0666922,-107.9917071,COUNTRY
+1,Mexico,Quintana Roo,,Cancún,21.1708906,-86.8403165,CITY
+1,United States of America,Michigan,Ingham County,East Lansing,42.7355416,-84.4852469,CITY
+1,United Kingdom,Scotland,Glasgow City,Glasgow,55.8560095,-4.2432506,ADDRESS
+1,United Kingdom,Scotland,City of Edinburgh,Edinburgh,55.9483399,-3.1932723,CITY
+1,United Kingdom,Scotland,Dundee City,Dundee,56.4593653,-2.9735213,CITY
+1,New Zealand,Otago,,Dunedin,-45.8739282,170.503488,CITY
+1,United States of America,Pennsylvania,Pike County,Saw Creek,41.122894,-75.047724,ADDRESS
+1,Ireland,,County Louth,Drogheda,53.7145115,-6.3493552,CITY
+1,Germany,,,,54.0731702,7.45860589983153,COUNTRY
+1,Indonesia,Central Java,,Depok,-6.8594502,109.5958193,CITY
+1,Denmark,Capital Region of Denmark,Københavns Kommune,Copenhagen,55.674425,12.5746435,ADDRESS
+1,The Netherlands,North Brabant,,s-Hertogenbosch,51.6889351,5.3031044,CITY
+1,United States of America,Ohio,Montgomery County,Dayton,39.7589478,-84.1916069,CITY
+1,United States of America,Michigan,Wayne County,Dearborn,42.3222599,-83.1763145,CITY
+1,United Kingdom,England,Kent,Dartford,51.4492657,0.2135344,CITY
+1,United Kingdom,England,West Midlands,Coventry,52.4081812,-1.510477,CITY
+1,United States of America,Texas,Tarrant County,Crowley,32.5767335,-97.3585231380221,CITY
+1,United States of America,Connecticut,,,41.493929,-72.5982114,STATE
+1,United States of America,Texas,Dallas County,Dallas,32.7801052,-96.8000082,CITY
+1,Malaysia,,Ledang,Cyberjaya,2.9197711,101.6552743,CITY
+1,United States of America,California,Orange County,Cypress,33.81898845,-118.041337197417,CITY
+1,United States of America,California,Santa Clara County,Cupertino,37.3230107,-122.0322519,CITY
+1,United States of America,Colorado,Gunnison County,Crested Butte,38.8670165,-106.982172871923,CITY
+1,United States of America,Ohio,Franklin County,Columbus,39.9622601,-83.0007065,CITY
+1,United States of America,Ohio,Franklin County,Columbus,39.9622601,-83.0007065,CITY
+1,Argentina,Córdoba,,,-32.0967361,-63.7940923,STATE
+1,Germany,Free State of Bavaria,Coburg,,50.2509691,10.9862688,COUNTY
+1,United States of America,Tennessee,Bradley,Cleveland,35.1595182,-84.8766115,CITY
+1,Canada,Alberta,,Cochrane,51.1863849,-114.4705556,CITY
+1,United States of America,Washington,Snohomish County,Everett,47.9673056,-122.2013998,CITY
+1,United Kingdom,England,Hertfordshire,Hatfield,51.7681681,-0.236918512924585,CITY
+1,United States of America,Oregon,Lane,Eugene,44.0505054,-123.0950506,CITY
+1,United States of America,South Carolina,Florence,,33.7846102,-79.4488454,COUNTY
+1,United States of America,California,Sacramento County,Folsom,38.67454495,-121.14391657446,CITY
+1,United States of America,Minnesota,Otter Tail,Fergus Falls,46.2844,-96.1568,ADDRESS
+1,Fiji,,,,-17.1553529,178.800954695978,COUNTRY
+1,United States of America,Washington,Grant County,Ephrata,47.3176385,-119.5536491,CITY
+1,India,Kerala,Kottayam,Kaduthuruthi,9.7770262,76.4698053,ADDRESS
+1,United States of America,California,San Diego County,Escondido,33.1216751,-117.0814849,CITY
+1,Spain,Comunidad Foral de Navarra,Comunidad Foral de Navarra,Pamplona,42.8133195,-1.6396107,ADDRESS
+1,United States of America,California,Los Angeles County,El Segundo,33.909841,-118.436168780115,CITY
+1,Germany,North Rhine-Westphalia,Kreis Kleve,Uedem,51.6573368,6.3250514,ADDRESS
+1,United States of America,Alaska,Southeast Fairbanks,Eagle,64.779927,-141.187519757437,CITY
+1,United States of America,West Virginia,Morgan,Great Cacapon,39.6200928,-78.2925093,CITY
+1,United Kingdom,England,Surrey,Godalming,51.1857892,-0.6149074,CITY
+1,United States of America,Colorado,Jefferson County,Golden,39.743396,-105.214806607753,CITY
+1,United States of America,Maryland,Anne Arundel County,Glen Burnie,39.1626298,-76.6250756,CITY
+1,Poland,Silesian Voivodeship,Gliwice,Gliwice,50.294113,18.6657306,CITY
+1,United Kingdom,England,Gloucestershire,Gloucester,51.8629188,-2.2466485,CITY
+1,Japan,Kinki Region,Inukami District,Gifu,35.3911880302338,136.722092156872,ADDRESS
+1,Israel,North District,,Kiryat Shmona,33.2048674,35.5775416,ADDRESS
+1,Switzerland,Geneva,,Geneva,46.2017559,6.1466014,CITY
+1,Switzerland,Geneva,,Geneva,46.2017559,6.1466014,CITY
+1,Georgia,,,,41.6809707,44.0287382,COUNTRY
+1,United States of America,Maryland,Montgomery County,Gaithersburg,39.1318276,-77.215958320696,CITY
+1,Belgium,Wallonia,Namur,Fosses-la-Ville,50.3959512,4.6978935,CITY
+1,Canada,New Brunswick,York County,Fredericton,45.9454963,-66.6530579054984,CITY
+1,United States of America,Maine,Cumberland County,Freeport,43.8570242,-70.1031057,CITY
+1,United States of America,Michigan,Ottawa County,Holland,42.7876022,-86.1090828,CITY
+1,United States of America,Florida,Broward County,Hollywood,26.0112014,-80.1494901,CITY
+1,Syria,Homs,,,34.2557121,38.3024953289302,STATE
+1,Australia,Tasmania,,Hobart,-42.8825088,147.3281233,CITY
+1,Greece,Crete,Heraklio Prefecture,Heraklion,35.3340134,25.1328543,CITY
+1,United States of America,Hawaii,Kalawao,Honolulu,21.3136235084374,-157.805750639071,ADDRESS
+1,Republic of the Philippines,Lanao del Norte,,Naawan,8.4303415,124.2883814,ADDRESS
+1,Pakistan,Islamabad Capital Territory,,Islamabad,33.6947961,73.0645266,ZIP
+1,Greece,Ipiros Periphery,Ioannina Prefecture,Ioannina,39.6712517,20.8591783,CITY
+1,Mexico,Sonora,,Hermosillo,29.0894152,-110.9612378,ZIP
+1,United States of America,Virginia,Fairfax County,Herndon,38.9695316,-77.3859479,CITY
+1,United Kingdom,England,Hertfordshire,,51.8400596,-0.0978276493780818,COUNTY
+1,Belgium,Flanders,Leuven,Heverlee,50.8645908,4.6937736,ZIP
+1,Denmark,Capital Region of Denmark,Hillerød Kommune,Hillerød,55.9285735,12.3063909,CITY
+1,United States of America,Hawaii,,,21.2160437,-157.975203,STATE
+1,People's Republic of China,Zhejiang,德清县,Hangzhou,30.2665643,120.149335,CITY
+1,United States of America,Indiana,Allen,Fort Wayne,41.0154267,-85.1258142,ADDRESS
+1,United States of America,Virginia,Norfolk (city),Virginia Beach,36.798475,-76.137623,ADDRESS
+1,Canada,Nova Scotia,Halifax County,Halifax,44.6484246,-63.5749724,CITY
+1,Germany,Saxony-Anhalt,"Halle (Saale), Stadt",Halle (Saale),51.4825041,11.9705452,CITY
+1,India,Gujarat,,,20.4198619,72.8370633989975,STATE
+1,People's Republic of China,Guangdong,佛冈县,Guangzhou,23.1229013,113.2529963,CITY
+1,People's Republic of China,Guangdong Province,,,23.1357694,113.1982688,STATE
+1,United States of America,Colorado,Arapahoe,Greenwood Village,39.6172101,-104.9508141,CITY
+1,The Netherlands,Groningen,,Groningen,53.2190692,6.5680421,CITY
+1,Spain,Castile and León,Salamanca,Salamanca,40.97774605,-5.6614508478303,CITY
+1,Sri Lanka,,,Kiribathgoda,6.9780598,79.9273908,CITY
+1,United States of America,Tennessee,Knox County,Knoxville,35.9584625,-83.952018895445,CITY
+1,Denmark,Region Syddanmark,Kolding Kommune,Kolding,55.4894999,9.47905,CITY
+1,Ukraine,Kyiv,Shevchenkivskyi district,Kyiv,50.4499875,30.5234937,ZIP
+1,Russian Federation,Kostroma Oblast,Kostroma,Kostroma,57.7679703,40.9268459,ZIP
+1,Malaysia,Sabah,,Kota Kinabalu,5.9537005,116.0848995,CITY
+1,Poland,Lesser Poland Voivodeship,Krakow,Krakow,50.061892,19.9368564,CITY
+1,United States of America,Texas,Hockley,,33.771624,-102.531114,ADDRESS
+1,United States of America,New Mexico,Doña Ana County,Las Cruces,32.3140549,-106.7798135,CITY
+1,United States of America,Maryland,Montgomery,Laurel,39.0992752,-76.8483061,CITY
+1,Italy,Lazio,LT,Latina,41.4672589,12.9035737,CITY
+1,United States of America,Indiana,Tippecanoe County,Lafayette,40.4167022,-86.8752869,CITY
+1,Pakistan,Punjab,Lahore District,Lahore,31.5621916,74.3228517,CITY
+1,United States of America,California,Orange County,Lake Forest,33.6469661,-117.689218,CITY
+1,United States of America,Oregon,Clackamas County,Lake Oswego,45.4206749,-122.6706498,CITY
+1,Norway,Finnmark,Porsanger,Lakselv,70.0524656,24.9636392,CITY
+1,United States of America,Pennsylvania,Lancaster County,Lancaster,40.03997225,-76.3064177339532,CITY
+1,United States of America,Pennsylvania,Bucks County,Langhorne,40.1745538,-74.9226665,CITY
+1,India,Uttar Pradesh,Kānpur,,26.5,80.0,COUNTY
+1,United States of America,Michigan,Kalamazoo County,Kalamazoo,42.291707,-85.5872286,CITY
+1,Uganda,,,Kampala,0.3162223,32.5821691,CITY
+1,India,Kerala,,,10.4434977,76.2760779952608,STATE
+1,United Kingdom,England,Northamptonshire,Kettering,52.3994233,-0.728004,CITY
+1,Canada,British Columbia,Regional District of Central Okanagan,Kelowna,49.8876629,-119.4961612,CITY
+1,United States of America,Kansas,Wyandotte County,Kansas City,39.1078505,-94.7343196,CITY
+1,United States of America,Pennsylvania,Montgomery County,Jenkintown,40.0959438,-75.1251743,CITY
+1,United States of America,Arkansas,Bradley,Jersey,33.4284495,-92.314312,CITY
+1,United States of America,Minnesota,Hennepin County,West Coon Rapids,45.1526611,-93.3537055,ADDRESS
+1,United States of America,Washington,King County,Issaquah,47.5355768,-122.0432974,CITY
+1,Brazil,Mato Grosso do Sul,,Ivinhema,-22.304571,-53.818414,CITY
+1,Malta,,,,35.8953019,14.504285,COUNTRY
+1,Brazil,Amazonas,,Manaus,-3.1331055,-59.9856354,CITY
+1,United States of America,Maine,,,45.709097,-68.8590201,STATE
+1,Ukraine,Lviv Oblast,Halytskyi District,Львів,49.83577135,24.0134054360093,ADDRESS
+1,India,,,Chennai,13.0804251,80.281807,ZIP
+1,United States of America,Wisconsin,Dane County,Madison,43.074761,-89.3837613,CITY
+1,Republic of the Philippines,Metro Manila,Manila,Manila,14.5906074,120.9799013,CITY
+1,United States of America,Hawaii,Maui County,Kahului,20.7873849,-156.38627,CITY
+1,Germany,Hesse,Marburg-Biedenkopf,Marburg,50.8117327,8.7757742,CITY
+1,Canada,Ontario,,Markham,43.8539172,-79.3242549,CITY
+1,France,Languedoc-Roussillon,Le Vigan,Mars,44.0009649,3.5560447,ZIP
+1,United States of America,Arkansas,Pulaski,Little Rock,34.7464809,-92.2895948,CITY
+1,United States of America,Colorado,Arapahoe County,Littleton,39.6021065,-104.987727336286,CITY
+1,Portugal,,,Lisbon,38.7128995,-9.1328948,CITY
+1,United Kingdom,England,Warwickshire,Royal Leamington Spa,52.2921548,-1.5356986,CITY
+1,United States of America,Kansas,Leavenworth County,Leavenworth,39.3111112,-94.9224637,CITY
+1,Lebanon,,,,33.8750629,35.843409,COUNTRY
+1,United States of America,New Hampshire,Grafton County,Lebanon,43.6458194,-72.2495442,CITY
+1,United States of America,Ohio,Warren County,Lebanon,39.4353373,-84.2029922,CITY
+1,United Kingdom,England,West Yorkshire,Leeds,53.7974185,-1.5437941,CITY
+1,United States of America,North Carolina,Forsyth County,Lewisville,36.0970819,-80.4192216,CITY
+1,Libya,,,,26.8234472,18.1236723,COUNTRY
+1,Sweden,Skåne län,Lomma,Lomma,55.6745348,13.0708928,CITY
+1,United Kingdom,Scotland,West Lothian,Livingston,55.8836171,-3.5160497,CITY
+1,United States of America,Colorado,Larimer,Loveland,40.3977612,-105.0749801,CITY
+1,United States of America,Virginia,Prince Edward County,Farmville,37.3004299,-78.3955513,ADDRESS
+1,United States of America,California,Los Angeles County,Los Angeles,34.0501713,-118.2419714,CITY
+1,United States of America,California,Los Angeles County,Los Angeles,34.0501713,-118.2419714,CITY
+1,United States of America,California,Santa Clara County,Los Gatos,37.2333645,-121.947273077603,CITY
