@@ -12,7 +12,7 @@ tags:
 - texture
 comments: []
 ---
-In [a previous post][{% post_url 2013-02-05-physics-uikit-2 %}] I've demonstrated how UIKit can be used with a physics engine. For this post I'm going to continue on the topic of mixing UIKit with technologies from the field of game development and show how UIViews can be used as textures in OpenGL.
+In [a previous post]({% post_url 2013-02-05-physics-uikit-2 %}) I've demonstrated how UIKit can be used with a physics engine. For this post I'm going to continue on the topic of mixing UIKit with technologies from the field of game development and show how UIViews can be used as textures in OpenGL.
 
 As a practical example I've put together a sample app that simulates a <em>UINavigationController</em> where view controller transitions are animated using a cube instead of the standard slide animations. Go ahead and download the complete <a title="source code" href="https://github.com/MihaiDamian/Cube-transition-example" target="_blank">source code</a>. You can see it in action in the video below:
 
