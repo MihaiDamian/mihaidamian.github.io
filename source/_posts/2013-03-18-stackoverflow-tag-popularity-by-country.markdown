@@ -16,10 +16,12 @@ StackExchange provides a great little tool called <a href="http://data.stackexch
 <script type='text/javascript'>
     jQuery(document).ready(function() {
         var map = jQuery('#map-frame');
-		var newWidth = jQuery('#content').width();
+		var newWidth = jQuery('#map-wrapper').width();
         var minDropdownMenuHeight = 455;
         var newHeight = Math.max(newWidth * (377.0 / 556), minDropdownMenuHeight);
 		map.width(newWidth).height(newHeight);
     });
 </script>
-<iframe id="map-frame" src="/assets/2013-03-18-stackoverflow-tag-popularity-by-country/iFrame/index.html" style="border:0; width:100%; height:500px;" seamless></iframe>
+<div id="map-wrapper">
+	<iframe id="map-frame" src="/assets/2013-03-18-stackoverflow-tag-popularity-by-country/iFrame/index.html" style="border:0; width:100%; height:500px;" seamless></iframe>
+</div>
