@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: www.codesushi.net/sitemap.xml 
+Sitemap: http://www.codesushi.net/sitemap.xml 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: iOS | Code Sushi]]></title>
-  <link href="www.codesushi.net/blog/categories/ios/atom.xml" rel="self"/>
-  <link href="www.codesushi.net/"/>
-  <updated>2014-03-25T23:36:25+02:00</updated>
-  <id>www.codesushi.net/</id>
+  <link href="http://www.codesushi.net/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://www.codesushi.net/"/>
+  <updated>2014-03-26T00:14:43+02:00</updated>
+  <id>http://www.codesushi.net/</id>
   <author>
     <name><![CDATA[Mihai Damian]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Using UIViews as OpenGL Textures for Custom View Controller Transitions]]></title>
-    <link href="www.codesushi.net/blog/2013/05/uiview-as-opengl-texture/"/>
+    <link href="http://www.codesushi.net/blog/2013/05/uiview-as-opengl-texture/"/>
     <updated>2013-05-01T00:00:00+03:00</updated>
-    <id>www.codesushi.net/blog/2013/05/uiview-as-opengl-texture</id>
+    <id>http://www.codesushi.net/blog/2013/05/uiview-as-opengl-texture</id>
     <content type="html"><![CDATA[In [a previous post](/blog/2013/02/physics-uikit-2/) I've demonstrated how UIKit can be used with a physics engine. For this post I'm going to continue on the topic of mixing UIKit with technologies from the field of game development and show how UIViews can be used as textures in OpenGL.
 
 As a practical example I've put together a sample app that simulates a <em>UINavigationController</em> where view controller transitions are animated using a cube instead of the standard slide animations. Go ahead and download the complete <a title="source code" href="https://github.com/MihaiDamian/Cube-transition-example" target="_blank">source code</a>. You can see it in action in the video below:
@@ -44,15 +44,15 @@ Once we have the textures ready, what's left is the fairly standard task of crea
   
   <entry>
     <title type="html"><![CDATA[Using Physics in a UIKit Based Application]]></title>
-    <link href="www.codesushi.net/blog/2013/02/physics-uikit-2/"/>
+    <link href="http://www.codesushi.net/blog/2013/02/physics-uikit-2/"/>
     <updated>2013-02-05T00:00:00+02:00</updated>
-    <id>www.codesushi.net/blog/2013/02/physics-uikit-2</id>
+    <id>http://www.codesushi.net/blog/2013/02/physics-uikit-2</id>
     <content type="html"><![CDATA[Some of the popular game engines available on iOS like <a title="cocos2d" href="http://www.cocos2d-iphone.org" target="_blank">cocos2d</a> and <a title="Unity" href="http://unity3d.com" target="_blank">Unity</a> come bundled with physics engines so oftentimes the first thought when you want to add a bit of physics to your app is that you need to use one of the fancy game engines you've been hearing so much about. In this post I'll walk you through using the <a title="Box2D" href="http://box2d.org" target="_blank">Box2D</a> physics engine without using any game engine or OpenGL.
 
 Let's start with a simple example. Create a single view iPad application project:
 
-![](www.codesushi.net/assets/2013-02-05-physics-uikit-2/images/singleviewapp.png)
-![](www.codesushi.net/assets/2013-02-05-physics-uikit-2/images/ipadapp.png)
+![](http://www.codesushi.net/assets/2013-02-05-physics-uikit-2/images/singleviewapp.png)
+![](http://www.codesushi.net/assets/2013-02-05-physics-uikit-2/images/ipadapp.png)
 
 Next we need to setup Box2D. The easiest way to do this is via <a title="CocoaPods" href="http://cocoapods.org" target="_blank">CocoaPods</a>. CocoaPods greatly simplifies library dependency management for iOS and OS X projects. If you haven't used it before you need to run the following commands in the terminal to set it up:
 ``` bash
