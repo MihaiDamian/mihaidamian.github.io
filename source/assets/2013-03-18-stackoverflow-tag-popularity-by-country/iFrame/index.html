@@ -29,7 +29,9 @@
 
     function onLoad() {
       chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
-      google.visualization.events.addListener(chart, 'ready', onReady);
+      google.visualization.events.addListener(chart, 'ready', function() {
+        enableButtons();
+      });
 
       loadDataForCurrentTag();
 
@@ -40,10 +42,6 @@
       });
     };
 
-    function onReady() {
-      enableButtons();
-    };
-
     function loadDataForCurrentTag() {
       loadData($('#tag-btn .btn-value').text());
     };
@@ -52,7 +50,7 @@
       $.ajax({
         url : 'data/' + encodeURIComponent(tagName) + '.csv',
         success : function(csvData) {
-          dataArray = $.csv.toArrays(csvData, {
+          var dataArray = $.csv.toArrays(csvData, {
             onParseValue: $.csv.hooks.castToScalar
           });
           drawRegionsMap(dataArray);
@@ -75,11 +73,7 @@
         [1],
         [{'column': 0, 'aggregation': google.visualization.data.sum, 'type': 'number'}]
         );
-
-      var countriesToShow = $('#country-btn').attr('value');
-      if(countriesToShow != 'all') {
-        dataByCountry = topCountriesView(dataByCountry, parseInt(countriesToShow));
-      }
+      dataByCountry = topCountriesView(dataByCountry, 30);
 
       disableButtons();
       chart.draw(dataByCountry);
@@ -119,15 +113,7 @@
         <li><a tabindex="-1" href="#">ruby</a></li>
         <li><a tabindex="-1" href="#">scala</a></li>
       </ul>
-    </div><div class="btn-group">
-    <a id="country-btn" class="btn dropdown-toggle" data-toggle="dropdown" href="#" value="all">
-      <span style="color:gray">show: </span><span class="btn-value">all countries</span> <span class="caret"></span>
-    </a>
-    <ul class="dropdown-menu">
-      <li><a tabindex="-1" href="#" value="all">all countries</a></li>
-      <li><a tabindex="-1" href="#" value="10">top 10 countries</a></li>
-    </ul>
-  </div>
+    </div>
   <div id="chart_div" style="width:100%; position:absolute; left:0; top:30px; bottom:0;"></div>
 </div>
 </body>
