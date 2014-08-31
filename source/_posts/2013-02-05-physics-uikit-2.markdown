@@ -11,6 +11,7 @@ tags:
 - UIKit
 - iOS
 - UIView
+comments: true
 ---
 Some of the popular game engines available on iOS like <a title="cocos2d" href="http://www.cocos2d-iphone.org" target="_blank">cocos2d</a> and <a title="Unity" href="http://unity3d.com" target="_blank">Unity</a> come bundled with physics engines so oftentimes the first thought when you want to add a bit of physics to your app is that you need to use one of the fancy game engines you've been hearing so much about. In this post I'll walk you through using the <a title="Box2D" href="http://box2d.org" target="_blank">Box2D</a> physics engine without using any game engine or OpenGL.
 
