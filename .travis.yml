@@ -3,7 +3,9 @@ rvm:
   - 2.1
   - 2.0.0
   - 1.9.3
-script: ./script/cibuild
+script:
+  - bundle exec jekyll build
+  - bundle exec rake test
 
 # branch whitelist
 branches:
