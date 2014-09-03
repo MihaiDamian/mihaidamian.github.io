@@ -17,8 +17,8 @@ Some of the popular game engines available on iOS like <a title="cocos2d" href="
 
 Let's start with a simple example. Create a single view iPad application project:
 
-![]({{ site.url }}/assets/2013-02-05-physics-uikit-2/images/singleviewapp.png)
-![]({{ site.url }}/assets/2013-02-05-physics-uikit-2/images/ipadapp.png)
+![Choose a project template]({{ site.url }}/assets/2013-02-05-physics-uikit-2/images/singleviewapp.png)
+![Choose project options]({{ site.url }}/assets/2013-02-05-physics-uikit-2/images/ipadapp.png)
 
 Next we need to setup Box2D. The easiest way to do this is via <a title="CocoaPods" href="http://cocoapods.org" target="_blank">CocoaPods</a>. CocoaPods greatly simplifies library dependency management for iOS and OS X projects. If you haven't used it before you need to run the following commands in the terminal to set it up:
 ``` bash
