@@ -1,6 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'html/proofer'
-
-jekyll build
-HTML::Proofer.new("./public", href_ignore:['#']).run
