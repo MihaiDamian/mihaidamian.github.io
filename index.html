@@ -9,7 +9,7 @@
   <meta name="author" content="Mihai Damian">
 
   
-  <meta name="description" content="In a previous post I&rsquo;ve demonstrated how UIKit can be used with a physics engine. For this post I&rsquo;m going to continue on the topic of &hellip;">
+  <meta name="description" content="If you are developing an app for iOS and Android, and if you need to translate the app in a foreign language, you will be faced with the decision of &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -77,6 +77,131 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/10/managing-ios-android-localized-strings/">Managing iOS and Android Localized Strings</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2014-10-02T22:27:40+03:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2014</span></span> <span class='time'>10:27 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>If you are developing an app for iOS and Android, and if you need to translate the app in a foreign language, you will be faced with the decision of translating the user-facing strings in the two apps independently or together. Translating the apps independently is the easier option as far as development effort is concerned. On the other hand, you can take advantage of the fact that roughly the same strings will be used on the iOS and Android versions and save costs on the translation side. Translating the apps together comes with some difficulties, as we&rsquo;ll see in this article.</p>
+
+<p>Before we dive deeper, I&rsquo;ll just want to note that at this point you should already be familiar with string internationalization on iOS and Android. If not, I recommend you start by reading the iOS <a href="https://developer.apple.com/library/prerelease/ios/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html">Internationalization and Localization Guide</a> and <a href="http://developer.android.com/training/basics/supporting-devices/languages.html">Supporting Different Languages</a> for Android. There are of course other resources except strings that need to be considered when localizing an application, but this article will focus only on strings.</p>
+
+<h3>Making tradeoffs</h3>
+
+<p>On the iOS side, Xcode 6 came with several improvements to its internationalization process. <em>genstrings</em> and <em>ibtool</em> no longer have to be used to extract strings from code and interface builder files. Instead, this is now achieved in a single step by exporting to XLIFF. <em>genstrings</em> and <em>ibtool</em> were particularly annoying to use as they were not capable of merging the generated strings files with previous outputs. The new export/import feature solves this problem by extracting the localizable strings to an external XLIFF file that is not directly used by the app and importing and merging localized strings from XLIFF files into strings files.</p>
+
+<p>Other problems, however, remain unsolved: base internationalization offers no way of adding comments and all strings, except those used by base internationalization, are indexed by the string itself, in the projects&#8217; development language. The last point is occasionally problematic if you have a string that&rsquo;s used as a homonym in the development language. Take for example the English word <em>share</em> that can be used as the verb <em>to share</em> or as a noun as in a stock share. In another language you will likely need two different words for the two meanings so in this case it&rsquo;s not possible to use a single string key.</p>
+
+<p>But for cross-platform projects, the biggest issue is that iOS localizable strings files generated as part of base internationalization, or even the XLIFF exported output, are not readily usable on Android (and vice versa). Base internationalization string files contain key-value pairs where strings are indexed by Interface Builder object ids:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="s2">&quot;CJ9-Yv-rto.text&quot;</span> <span class="o">=</span> <span class="s2">&quot;Some text&quot;</span><span class="p">;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>This type of ids are practically meaningless in an Android project and you definitely don&rsquo;t want to write code that uses them as resource names. For this reason, base internationalization can&rsquo;t be used if we hope to use a single set of localizable strings on iOS and Android.</p>
+
+<h3>A typical internationalization-localization workflow</h3>
+
+<p>Let&rsquo;s briefly look over the typical activities performed when internationalizing and localizing an app developed for iOS and Android.</p>
+
+<p>During development localizable strings are used instead of hardcoded strings. This means that application code loads user-facing strings based on pre-determined keys from localized string files. Initially no translated strings are available so the only locale used is that of the projects&#8217; development language.</p>
+
+<p>At some point, all localizable strings, from both platforms, need to be gathered and sent to translators. Commonly the two platforms will use roughly the same set of strings. To send out a single file containing all strings we need to come up with a common format and merge the iOS and Android strings into it. This can be either one of the platform native formats or an entirely different one. Either way we&rsquo;ll need to take into account that string formatting characters like %@ and %s will be different for the two platforms. While translators are busy doing their work, application development continues and new strings are added while others may be deleted or modified.</p>
+
+<p>When the translated strings are received back they need to be merged with the new, untranslated strings. They also need to be converted back in platform specific formats (strings files for iOS, XML for Android). Sometime in the future, the remaining untranslated strings need to be sent again to the translators.</p>
+
+<p>These steps are often repeated multiple times. Crowdsourced translation services make translating small and frequent batches of strings easy. Doing this will help ironing out any issues related to translation well before the release date. Naturally, when the application is ready for release all strings should be translated.</p>
+
+<p>For medium to large projects there will be a significant number of strings to work with. Some of the steps, like the merging into and out of the common strings format, will be quite labor intensive. Automating the process is definitely a necessity. Fortunately there is an open-source command line tool called <a href="https://github.com/mobiata/twine">twine</a> that can help us achieve this.</p>
+
+<h3>Preparing you localizable resources for use with twine</h3>
+
+<p>Like XLIFF export/import in Xcode, Twine works on a single master file that holds all your localizable strings with translations in the available locales. To import the existing strings from the iOS and Android projects start by creating an empty text file:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>touch strings.txt
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Next, import localizable strings from the iOS project:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>twine consume-all-string-files strings.txt PathToIOSProject --developer-language en --consume-all --consume-comments
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Now do the same for the localizable strings in the Android project:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>twine consume-all-string-files strings.txt PathToAndroidProject --developer-language en --consume-all --consume-comments
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>This will merge the strings from the two projects, by string keys, in a common master file. If you were already using the same string keys on both iOS and Android you&rsquo;ll end up with no duplicates. The command also identifies all the available locales based on project folder structure and will import any existing translations as well.</p>
+
+<p>Notice that when native strings are consumed, string formatting special characters, like %s, will be changed to a common format. Also notice that <em>consume-all-string-files</em> will search through all iOS strings files and all Android XML resource files. While this works great for the initial creation of the master file, in practice you&rsquo;ll save yourself a lot of effort if you work with a single native strings file, per platform, per locale.</p>
+
+<h3>The workflow with twine</h3>
+
+<p>Let&rsquo;s look again at the typical internationalization and localization actions, this time with twine helping us along the way.</p>
+
+<h4>Adding, modifying and deleting strings</h4>
+
+<p>When you need to add a new localizable string during development, simply add it to the master file. In other words, never manually edit the platform specific strings files. These files will be instead generated automatically as we&rsquo;ll see next. Modifying and deleting strings is a bit problematic, since such changes can only be performed when a single platform is impacted. You can&rsquo;t for instance delete a string if the iOS version of the app no longer needs it, since it may still be in use on Android.</p>
+
+<h4>Updating iOS and Android localization files from the master file</h4>
+
+<p>Updating the localizable strings files is as simple as this:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>twine generate-all-string-files strings.txt PathToProject
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Again, twine will use project folder structure to determine the locales the project is using and will update the necessary files for all the locales. It is recommended to include this command in your build process so that if the master file is modified the localization files can be updated with a simple build command. In Xcode you can to this by adding a custom Run Script build phase. Just make sure you order this build phase to be executed before the Copy Bundle Resources phase.</p>
+
+<h4>Sending out strings to the translation team</h4>
+
+<p>When you are ready to send a batch of strings out for translation, you can send the single master file. The twine master file uses a human-friendly, easy to read syntax, inspired by Windows <a href="http://en.wikipedia.org/wiki/INI_file">INI</a> files. Translators should have no problem filling in the missing translations. Optionally, you could export to <a href="http://en.wikipedia.org/wiki/Gettext">Gettext PO</a> files if you need to provide you translation team with a more commonly used file format.</p>
+
+<h4>Merging back updates from the translation team</h4>
+
+<p>Merging back translated strings works similarly with importing strings from platform specific strings files. Here&rsquo;s an example that merges a file received from translators (localized.po) with the master file (strings.txt).</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'>twine consume-string-file strings.txt localized.po --lang es
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Finally, all that remains is to update the iOS and Android localizable strings files as we&rsquo;ve seen before.</p>
+
+<h3>Conclusions</h3>
+
+<p>In the end, we have to wonder if it&rsquo;s really worth translating the iOS and Android versions together. Twine helps automate many of the labor intensive parts of the process but coordination between developers building the iOS and Android apps is still needed, especially when modifying and deleting existing strings. Translation effort is certainly reduced, but this has not come for free. The is no clear-cut answer and everything depends on the particularities of your situation. The factors that will swing the balance are the number of languages that will have to be supported, team composition (will the same developers work on both platforms or not?), number of localizable strings, feature overlap and the relative cost of development versus translation.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -636,6 +761,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/10/managing-ios-android-localized-strings/">Managing iOS and Android Localized Strings</a>
+      </li>
     
       <li class="post">
         <a href="/blog/2013/05/uiview-as-opengl-texture/">Using UIViews as OpenGL Textures for Custom View Controller Transitions</a>
